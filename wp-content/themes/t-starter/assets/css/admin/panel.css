@@ -1,0 +1,266 @@
+#adminmenu,
+#adminmenu .wp-submenu,
+#adminmenuback,
+#adminmenuwrap,
+#wpadminbar {
+  background-color: #32304c;
+}
+
+h1,
+h2,
+h3,
+p,
+li,
+.form-table th,
+.form-wrap label {
+  color: #32304c;
+}
+
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head,
+#adminmenu .wp-menu-arrow,
+#adminmenu .wp-menu-arrow div,
+#adminmenu li.current a.menu-top,
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu {
+  background: #ed6c38;
+}
+
+.wrap .add-new-h2,
+.wrap .add-new-h2:active,
+.wrap .page-title-action,
+.wrap .page-title-action:active {
+  margin-left: 4px;
+  padding: 4px 8px;
+  position: relative;
+  top: -3px;
+  text-decoration: none;
+  border: 1px solid #32304c;
+  border-radius: 2px;
+  text-shadow: none;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: normal;
+  color: #fff;
+  background: #32304c;
+  cursor: pointer;
+  transition: all 0.2s ease-in;
+}
+
+.wrap .add-new-h2:hover,
+.wrap .page-title-action:hover {
+  background: #ed6c38;
+  border-color: #ed6c38;
+  color: #fff;
+}
+
+#adminmenu .wp-submenu a:focus,
+#adminmenu .wp-submenu a:hover,
+#adminmenu a:hover,
+#adminmenu li.menu-top > a:focus {
+  color: #fff;
+  background-color: transparent;
+}
+#adminmenu .wp-submenu a:focus:after,
+#adminmenu .wp-submenu a:hover:after,
+#adminmenu a:hover:after,
+#adminmenu li.menu-top > a:focus:after {
+  display: none;
+}
+
+#adminmenu li.wp-has-submenu.wp-not-current-submenu:focus-within:after,
+#adminmenu li.wp-has-submenu.wp-not-current-submenu:hover:after {
+  display: none;
+}
+
+#adminmenu li.menu-top:hover,
+#adminmenu li.opensub > a.menu-top,
+#adminmenu li > a.menu-top:focus {
+  position: relative;
+  background-color: transparent;
+  color: #fff;
+}
+
+#adminmenu li a:focus div.wp-menu-image:before,
+#adminmenu li.opensub div.wp-menu-image:before,
+#adminmenu li:hover div.wp-menu-image:before {
+  color: #ed6c38;
+}
+
+#wp-admin-bar-wp-logo {
+  display: none;
+}
+
+.wrap .page-title-action:focus {
+  border-color: #ed6c38;
+  box-shadow: 0 0 0 1px #ed6c38;
+  outline: 2px solid transparent;
+}
+
+body {
+  background: #fff;
+}
+
+.acf-field-611baa2616381,
+.acf-field-5eb85c9180d01,
+#column-view-selector,
+#footer-thankyou,
+#footer-upgrade,
+#wp-admin-bar-archive,
+#wp-admin-bar-edit-profile,
+#wp-admin-bar-user-info {
+  display: none;
+}
+
+a {
+  color: #4fa9b3;
+  transition: all 0.2s ease-in;
+}
+a:hover {
+  color: #ed6c38;
+}
+
+#wpadminbar .menupop .ab-sub-wrapper,
+#wpadminbar .shortlink-input {
+  background: #32304c;
+}
+
+#wpadminbar .ab-top-menu > li.hover > .ab-item,
+#wpadminbar.nojq .quicklinks .ab-top-menu > li > .ab-item:focus,
+#wpadminbar:not(.mobile) .ab-top-menu > li:hover > .ab-item,
+#wpadminbar:not(.mobile) .ab-top-menu > li > .ab-item:focus {
+  background: #32304c;
+  color: #4fa9b3;
+}
+
+.devis-bloc .check-list {
+  margin: 0 !important;
+}
+.devis-bloc .check-list li {
+  font-size: 16px;
+  display: block;
+}
+.devis-bloc .check-list li img {
+  width: 10px !important;
+  height: auto !important;
+}
+.devis-bloc .check-list li strong {
+  color: #ed6c38;
+}
+
+.cta {
+  margin-bottom: 40px;
+}
+.cta .tarif-accueil {
+  background: #33304C;
+  display: flex;
+  min-height: 75px;
+  border: solid 1px #33304C;
+  overflow: hidden;
+  border-radius: 40px;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  margin: 0 auto;
+  z-index: 10;
+}
+.cta .tarif-accueil .prix {
+  display: flex;
+  color: #fff;
+  padding: 12px 18px 4px;
+}
+.cta .tarif-accueil .prix .a-partir {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 18px;
+  text-align: right;
+  margin-right: 7px;
+}
+.cta .tarif-accueil .prix .one {
+  font-size: 61px;
+  line-height: 57px;
+  font-weight: 700;
+}
+.cta .tarif-accueil .prix .droite {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.cta .tarif-accueil .prix .droite .euro {
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 31px;
+}
+.cta .tarif-accueil .prix .droite .par-jour {
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 300;
+}
+.cta .tarif-accueil .support {
+  background: #fff;
+  font-size: 21px;
+  line-height: 24px;
+  color: #33304C;
+  padding: 12px 45px 12px 18px;
+  font-weight: 700;
+}
+.cta .tarif-accueil .button {
+  background: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.cta .tarif-accueil .button a {
+  margin: 0 20px 0 0;
+  text-transform: none;
+}
+
+.back-gris {
+  background-color: #32304c;
+  position: relative;
+}
+.back-gris h2,
+.back-gris h3,
+.back-gris p,
+.back-gris li,
+.back-gris a {
+  color: #fff;
+}
+
+.has-cyan-background-color {
+  background-color: #4fa9b3 !important;
+}
+
+.has-orange-background-color {
+  background-color: #ed6c38 !important;
+}
+
+.has-gris-background-color {
+  background-color: #32304c !important;
+}
+
+.has-blanc-background-color {
+  background-color: #fff !important;
+}
+
+.has-noir-background-color {
+  background-color: #000 !important;
+}
+
+.has-cyan-color {
+  color: #4fa9b3 !important;
+}
+
+.has-orange-color {
+  color: #ed6c38 !important;
+}
+
+.has-gris-color {
+  color: #32304c !important;
+}
+
+.has-blanc-color {
+  color: #fff !important;
+}
+
+.has-noir-color {
+  color: #000 !important;
+}/*# sourceMappingURL=panel.css.map */

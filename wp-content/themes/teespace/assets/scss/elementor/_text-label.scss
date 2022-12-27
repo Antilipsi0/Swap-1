@@ -1,0 +1,83 @@
+$root: '.haru-text-label';
+
+#{$root} {
+
+  &--style-1 {
+    // padding-bottom: 100%;
+    background-color: $cl-secondary;
+    border-radius: 50%;
+    position: relative;
+    width: 156px;
+    height: 156px;
+
+    @media screen and(max-width: $screen-lg-max) {
+      width: 140px;
+      height: 140px;
+    }
+
+    @media screen and(max-width: $screen-md-max) {
+      width: 120px;
+      height: 120px;
+    }
+
+    @media screen and(max-width: $screen-sm-max) {
+      width: 100px;
+      height: 100px;
+    }
+
+    #{$root}__content {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      display: inline-block;
+      color: $cl-white;
+      font-weight: $fw-bold;
+      line-height: 1;
+      text-align: center;
+      transform: translate(-50%, -50%);
+    }
+
+    #{$root}__title {
+      font-size: 24px;
+      padding-bottom: 10px;
+
+      @media screen and(max-width: $screen-lg-max) {
+        font-size: 22px;
+      }
+
+      @media screen and(max-width: $screen-md-max) {
+        font-size: 20px;
+      }
+
+      @media screen and(max-width: $screen-sm-max) {
+        font-size: 18px;
+      }
+    }
+
+    #{$root}__sub-title {
+      font-size: 40px;
+
+      @media screen and(max-width: $screen-lg-max) {
+        font-size: 36px;
+      }
+
+      @media screen and(max-width: $screen-md-max) {
+        font-size: 32px;
+      }
+
+      @media screen and(max-width: $screen-sm-max) {
+        font-size: 28px;
+      }
+    }
+  }
+
+}
+
+#{$dark-mode},
+#{$background-dark} {
+  #{$root} {
+    &--style-1 {
+      
+    }
+  }
+}

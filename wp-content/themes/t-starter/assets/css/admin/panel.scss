@@ -1,0 +1,295 @@
+$light-gray: #9192a3;
+$primary: #ed6c38;
+$secondary: #ed6c38;
+$success: #4fa9b3;
+$info: #32304c;
+$warning: #ffaf00;
+$danger: #e23636;
+$dark: #33304C;
+$light: #ffffff;
+$body-color: #5a6671;
+$grisc: #f2f2f2;
+
+#adminmenu,
+#adminmenu .wp-submenu,
+#adminmenuback,
+#adminmenuwrap,
+#wpadminbar {
+    background-color: $info;
+}
+
+h1,
+h2,
+h3,
+p,
+li,
+.form-table th,
+.form-wrap label {
+    color: $info;
+}
+
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head,
+#adminmenu .wp-menu-arrow,
+#adminmenu .wp-menu-arrow div,
+#adminmenu li.current a.menu-top,
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu {
+    background: $primary;
+}
+
+.wrap .add-new-h2,
+.wrap .add-new-h2:active,
+.wrap .page-title-action,
+.wrap .page-title-action:active {
+    margin-left: 4px;
+    padding: 4px 8px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    border: 1px solid $info;
+    border-radius: 2px;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+    color: #fff;
+    background: $info;
+    cursor: pointer;
+    transition: all 0.2s ease-in;
+}
+
+.wrap .add-new-h2:hover,
+.wrap .page-title-action:hover {
+    background: $primary;
+    border-color: $primary;
+    color: #fff;
+}
+
+#adminmenu .wp-submenu a:focus,
+#adminmenu .wp-submenu a:hover,
+#adminmenu a:hover,
+#adminmenu li.menu-top>a:focus {
+    color: #fff;
+    background-color: transparent;
+
+    &:after {
+        display: none;
+    }
+}
+
+#adminmenu li.wp-has-submenu.wp-not-current-submenu:focus-within:after,
+#adminmenu li.wp-has-submenu.wp-not-current-submenu:hover:after {
+    display: none;
+}
+
+#adminmenu li.menu-top:hover,
+#adminmenu li.opensub>a.menu-top,
+#adminmenu li>a.menu-top:focus {
+    position: relative;
+    background-color: transparent;
+    color: #fff;
+}
+
+#adminmenu li a:focus div.wp-menu-image:before,
+#adminmenu li.opensub div.wp-menu-image:before,
+#adminmenu li:hover div.wp-menu-image:before {
+    color: $primary;
+}
+
+#wp-admin-bar-wp-logo {
+    display: none;
+}
+
+.wrap .page-title-action:focus {
+    border-color: $primary;
+    box-shadow: 0 0 0 1px $primary;
+    outline: 2px solid transparent;
+}
+
+body {
+    background: #fff;
+}
+
+.acf-field-611baa2616381,
+.acf-field-5eb85c9180d01,
+#column-view-selector,
+#footer-thankyou,
+#footer-upgrade,
+#wp-admin-bar-archive,
+#wp-admin-bar-edit-profile,
+#wp-admin-bar-user-info {
+    display: none;
+}
+
+a {
+    color: $success;
+    transition: all 0.2s ease-in;
+
+    &:hover {
+        color: $primary;
+    }
+}
+
+#wpadminbar .menupop .ab-sub-wrapper,
+#wpadminbar .shortlink-input {
+    background: $info;
+}
+
+#wpadminbar .ab-top-menu>li.hover>.ab-item,
+#wpadminbar.nojq .quicklinks .ab-top-menu>li>.ab-item:focus,
+#wpadminbar:not(.mobile) .ab-top-menu>li:hover>.ab-item,
+#wpadminbar:not(.mobile) .ab-top-menu>li>.ab-item:focus {
+    background: $info;
+    color: $success;
+}
+
+.devis-bloc {
+    .check-list {
+        margin: 0 !important;
+
+        li {
+            font-size: 16px;
+            display: block;
+
+            img {
+                width: 10px !important;
+                height: auto !important;
+            }
+
+            strong {
+                color: $primary;
+            }
+        }
+    }
+}
+
+.cta {
+    margin-bottom: 40px;
+
+    .tarif-accueil {
+        background: $dark;
+        display: flex;
+        min-height: 75px;
+        border: solid 1px $dark;
+        overflow: hidden;
+        border-radius: 40px;
+        width: max-content;
+        margin: 0 auto;
+        z-index: 10;
+
+        .prix {
+            display: flex;
+            color: #fff;
+            padding: 12px 18px 4px;
+
+            .a-partir {
+                font-size: 16px;
+                font-weight: 300;
+                line-height: 18px;
+                text-align: right;
+                margin-right: 7px;
+            }
+
+            .one {
+                font-size: 61px;
+                line-height: 57px;
+                font-weight: 700;
+            }
+
+            .droite {
+                display: flex;
+                flex-direction: column;
+                text-align: center;
+
+                .euro {
+                    font-size: 35px;
+                    font-weight: 700;
+                    line-height: 31px;
+                }
+
+                .par-jour {
+                    font-size: 16px;
+                    line-height: 18px;
+                    font-weight: 300;
+                }
+            }
+        }
+
+        .support {
+            background: #fff;
+            font-size: 21px;
+            line-height: 24px;
+            color: $dark;
+            padding: 12px 45px 12px 18px;
+            font-weight: 700;
+        }
+
+        .button {
+            background: #fff;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+
+            a {
+                margin: 0 20px 0 0;
+                text-transform: none;
+            }
+        }
+    }
+}
+
+.back-gris {
+    background-color: $info;
+    position: relative;
+
+    h2,
+    h3,
+    p,
+    li,
+    a {
+
+        color: #fff;
+
+    }
+
+}
+
+
+.has-cyan-background-color {
+    background-color: $success !important;
+}
+
+.has-orange-background-color {
+    background-color: $primary !important;
+}
+
+.has-gris-background-color {
+    background-color: $info !important;
+}
+
+.has-blanc-background-color {
+    background-color: #fff !important;
+}
+
+.has-noir-background-color {
+    background-color: #000 !important;
+}
+
+.has-cyan-color {
+    color: $success !important;
+}
+
+.has-orange-color {
+    color: $primary !important;
+}
+
+.has-gris-color {
+    color: $info !important;
+}
+
+.has-blanc-color {
+    color: #fff !important;
+}
+
+.has-noir-color {
+    color: #000 !important;
+}

@@ -1,0 +1,5975 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Haru TeeSpace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-05 04:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: haru-teespace"
+
+#. 1: Plugin name 2: Elementor
+#: haru-teespace.php:213
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: haru-teespace.php:237 haru-teespace.php:262
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: includes/widgets/price-calculator.php:173
+msgid "$"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:195
+msgid "%"
+msgstr ""
+
+#: includes/wp-widgets/haru-navigation-menu.php:189
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: includes/term-meta/include/term-meta-generator-class.php:250
+msgid "-- Choose Icon --"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:390
+msgid "/ month"
+msgstr ""
+
+#: includes/widgets/price-table.php:135 includes/widgets/price-table.php:136
+msgid "/Month"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:197
+msgid "0"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:199
+#: includes/widgets/woo-ajax-category.php:220
+#: includes/widgets/episode-category.php:238
+#: includes/widgets/woo-ajax-order.php:405
+msgid "1"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:221
+#: includes/widgets/episode-category.php:239
+#: includes/widgets/woo-ajax-order.php:406
+msgid "2"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:91
+msgid "2 Columns"
+msgstr ""
+
+#: includes/widgets/timeline.php:96 includes/widgets/timeline.php:201
+msgid "2030"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:222
+#: includes/widgets/episode-category.php:240
+#: includes/widgets/woo-ajax-order.php:407
+msgid "3"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:223
+#: includes/widgets/episode-category.php:241
+#: includes/widgets/woo-ajax-order.php:408
+msgid "4"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:224
+#: includes/widgets/episode-category.php:242
+#: includes/widgets/woo-ajax-order.php:409
+msgid "5"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:225
+#: includes/widgets/episode-category.php:243
+#: includes/widgets/woo-ajax-order.php:410
+msgid "6"
+msgstr ""
+
+#: includes/widgets/accordion.php:130
+msgid "Accordion #1"
+msgstr ""
+
+#: includes/widgets/accordion.php:135
+msgid "Accordion #2"
+msgstr ""
+
+#: includes/widgets/accordion.php:102
+msgid "Accordion Content"
+msgstr ""
+
+#: includes/widgets/accordion.php:125
+msgid "Accordion Items"
+msgstr ""
+
+#: includes/widgets/accordion.php:89
+msgid "Accordion Title"
+msgstr ""
+
+#: includes/widgets/woo-account.php:62
+msgid "Account Settings"
+msgstr ""
+
+#: includes/widgets/countdown.php:304
+msgid "Actions After Expire"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:573 includes/widgets/nav-menu.php:789
+#: includes/widgets/nav-menu.php:1050 includes/widgets/footer-link.php:274
+msgid "Active"
+msgstr ""
+
+#: includes/widgets/accordion.php:233
+msgid "Active Default"
+msgstr ""
+
+#: includes/widgets/accordion.php:184
+msgid "Active Icon"
+msgstr ""
+
+#: includes/wp-widgets/haru-navigation-menu.php:29
+msgid "Add a navigation menu to your sidebar."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:428
+msgid "Add extra class to body and use Custom CSS to get different style."
+msgstr ""
+
+#: includes/posttypes/content.php:37 includes/posttypes/header.php:36
+#: includes/posttypes/footer.php:37 includes/posttypes/megamenu.php:46
+msgid "Add New"
+msgstr ""
+
+#: includes/posttypes/content.php:38 includes/posttypes/content.php:40
+msgid "Add New Content"
+msgstr ""
+
+#: includes/posttypes/footer.php:38 includes/posttypes/footer.php:40
+msgid "Add New Footer"
+msgstr ""
+
+#: includes/posttypes/header.php:37 includes/posttypes/header.php:39
+msgid "Add New Header"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:47 includes/posttypes/megamenu.php:49
+msgid "Add New MegaMenu"
+msgstr ""
+
+#: includes/widgets/logo.php:177 includes/widgets/text-scroll.php:149
+#: includes/widgets/woo-ajax-category.php:185
+#: includes/widgets/text-label.php:103 includes/widgets/accordion.php:258
+#: includes/widgets/button.php:257 includes/widgets/timeline.php:291
+#: includes/widgets/menu-tabs.php:294 includes/widgets/tabs.php:294
+#: includes/widgets/header-icon-box.php:142
+#: includes/widgets/header-contact.php:168 includes/widgets/price-table.php:225
+#: includes/widgets/woo-product-top-sale.php:153
+#: includes/widgets/search.php:280 includes/widgets/countdown.php:355
+#: includes/widgets/icon-list.php:158 includes/widgets/particles.php:305
+#: includes/widgets/woo-wishlist.php:111 includes/widgets/counter.php:265
+#: includes/widgets/nav-menu-popup.php:263
+#: includes/widgets/woo-product-best-seller.php:117
+#: includes/widgets/close-row.php:138
+#: includes/widgets/content-slideshow.php:214
+#: includes/widgets/woo-account.php:213 includes/widgets/logo-footer.php:178
+#: includes/widgets/team-member.php:298 includes/widgets/nav-menu.php:482
+#: includes/widgets/testimonial.php:217
+#: includes/widgets/episode-category.php:203
+#: includes/widgets/post-featured.php:250
+#: includes/widgets/romeo-slideshow.php:228
+#: includes/widgets/woo-product-top-rated.php:153
+#: includes/widgets/decor.php:158 includes/widgets/video.php:543
+#: includes/widgets/woo-product-slider.php:185 includes/widgets/steps.php:206
+#: includes/widgets/woo-cart.php:124 includes/widgets/heading.php:246
+#: includes/widgets/banner-creative.php:185
+#: includes/widgets/woo-ajax-order.php:261 includes/widgets/woo-search.php:299
+#: includes/widgets/logo-showcase.php:170
+#: includes/widgets/header-button.php:250 includes/widgets/divider.php:230
+#: includes/widgets/icon-box.php:199 includes/widgets/google-maps.php:175
+#: includes/widgets/image-blob.php:108 includes/widgets/footer-link.php:163
+#: includes/widgets/banner-list.php:322 includes/widgets/menu-post.php:222
+#: includes/widgets/text-animation.php:176 includes/widgets/banner.php:186
+#: includes/widgets/nav-menu-sidebar.php:258
+#: includes/widgets/nav-menu-template.php:143
+#: includes/widgets/footer-text.php:96
+#: includes/widgets/price-calculator.php:460 includes/widgets/social.php:187
+#: includes/widgets/images-gallery.php:289 includes/widgets/contact.php:182
+#: includes/widgets/text-list.php:159 includes/widgets/layla-slideshow.php:228
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr ""
+
+#: includes/widgets/button.php:245 includes/widgets/header-button.php:238
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: includes/widgets/heading.php:119
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: includes/widgets/heading.php:132
+msgid "Add Your Sub Heading Text Here"
+msgstr ""
+
+#: includes/widgets/button.php:202 includes/widgets/header-button.php:195
+msgid "After"
+msgstr ""
+
+#: includes/widgets/woo-search.php:178
+msgid "Ajax Search"
+msgstr ""
+
+#: includes/widgets/woo-search.php:188
+msgid "Ajax Search Count"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:139 includes/widgets/nav-menu.php:406
+msgid "Align"
+msgstr ""
+
+#: includes/widgets/accordion.php:299 includes/widgets/button.php:124
+#: includes/widgets/header-icon-box.php:216
+#: includes/widgets/header-contact.php:135 includes/widgets/price-table.php:299
+#: includes/widgets/search.php:231 includes/widgets/woo-wishlist.php:79
+#: includes/widgets/close-row.php:106 includes/widgets/woo-account.php:85
+#: includes/widgets/woo-cart.php:92 includes/widgets/heading.php:212
+#: includes/widgets/woo-search.php:250 includes/widgets/header-button.php:136
+#: includes/widgets/icon-box.php:290 includes/widgets/text-animation.php:142
+#: includes/widgets/footer-text.php:146 includes/widgets/social.php:86
+#: includes/widgets/text-list.php:125
+msgid "Alignment"
+msgstr ""
+
+#: templates/woo-ajax-order/woo-ajax-order.php:105
+#: templates/woo-ajax-category/woo-ajax-category.php:54
+#: includes/wp-widgets/haru-woo-price-filter.php:243
+msgid "All"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:42
+msgid "All categories"
+msgstr ""
+
+#: includes/posttypes/content.php:36
+msgid "All Content"
+msgstr ""
+
+#: includes/posttypes/footer.php:36
+msgid "All Footer"
+msgstr ""
+
+#: includes/posttypes/header.php:35
+msgid "All Header"
+msgstr ""
+
+#: includes/classes/class-haru-ajax-helper.php:74
+msgid "All items loaded."
+msgstr ""
+
+#: includes/posttypes/megamenu.php:45
+msgid "All MegaMenu"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:101
+#: includes/widgets/layla-slideshow.php:101
+msgid "All Posts"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:292
+msgid "Allow your site support SVG files"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:122
+#: includes/widgets/woo-product-top-rated.php:122
+msgid "Alphabetic"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:81
+msgid "AND"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:216
+msgid "Angle"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:188
+msgid "Animation"
+msgstr ""
+
+#: includes/widgets/counter.php:133
+msgid "Animation Duration"
+msgstr ""
+
+#: includes/widgets/text-animation.php:109
+msgid "Animation Title #1"
+msgstr ""
+
+#: includes/widgets/text-animation.php:112
+msgid "Animation Title #2"
+msgstr ""
+
+#: includes/widgets/video.php:438
+msgid "Any Video"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:328
+#: includes/widgets/episode-category.php:347
+#: includes/widgets/woo-ajax-order.php:427
+msgid "Arrow"
+msgstr ""
+
+#: includes/widgets/timeline.php:340
+#: includes/widgets/woo-product-top-sale.php:209
+#: includes/widgets/woo-product-best-seller.php:173
+#: includes/widgets/content-slideshow.php:263
+#: includes/widgets/team-member.php:384 includes/widgets/testimonial.php:369
+#: includes/widgets/post-featured.php:345
+#: includes/widgets/woo-product-top-rated.php:209
+#: includes/widgets/woo-product-slider.php:267 includes/widgets/steps.php:306
+#: includes/widgets/banner-creative.php:266
+#: includes/widgets/woo-ajax-order.php:467
+#: includes/widgets/logo-showcase.php:288 includes/widgets/banner-list.php:427
+#: includes/widgets/images-gallery.php:367
+msgid "Arrows"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:77
+msgid "ASC"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:141
+#: includes/widgets/woo-product-top-rated.php:141
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:410
+msgid "Aside"
+msgstr ""
+
+#: includes/widgets/video.php:642
+msgid "Aspect Ratio"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:67
+msgid "Attribute"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:56
+msgid "Audio Source"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:151
+#: includes/widgets/woo-product-top-sale.php:121
+#: includes/widgets/post-featured.php:152
+#: includes/widgets/woo-product-top-rated.php:121
+#: includes/widgets/menu-post.php:124
+msgid "Author"
+msgstr ""
+
+#: includes/widgets/timeline.php:385
+#: includes/widgets/woo-product-top-sale.php:270
+#: includes/widgets/woo-product-best-seller.php:234
+#: includes/widgets/content-slideshow.php:323
+#: includes/widgets/team-member.php:445 includes/widgets/testimonial.php:430
+#: includes/widgets/post-featured.php:390
+#: includes/widgets/woo-product-top-rated.php:270
+#: includes/widgets/woo-product-slider.php:328 includes/widgets/steps.php:367
+#: includes/widgets/banner-creative.php:312
+#: includes/widgets/woo-ajax-order.php:528
+#: includes/widgets/logo-showcase.php:349 includes/widgets/banner-list.php:473
+#: includes/widgets/images-gallery.php:413
+msgid "AutoPlay"
+msgstr ""
+
+#: includes/widgets/video.php:275
+msgid "Autoplay"
+msgstr ""
+
+#: includes/widgets/timeline.php:398
+#: includes/widgets/woo-product-top-sale.php:283
+#: includes/widgets/woo-product-best-seller.php:247
+#: includes/widgets/content-slideshow.php:336
+#: includes/widgets/team-member.php:458 includes/widgets/testimonial.php:443
+#: includes/widgets/post-featured.php:403
+#: includes/widgets/woo-product-top-rated.php:283
+#: includes/widgets/woo-product-slider.php:341 includes/widgets/steps.php:380
+#: includes/widgets/banner-creative.php:325
+#: includes/widgets/woo-ajax-order.php:541
+#: includes/widgets/logo-showcase.php:362 includes/widgets/banner-list.php:486
+#: includes/widgets/images-gallery.php:426
+msgid "AutoPlay Speed (ms)"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-sorting.php:51
+msgid "Average rating"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:735 includes/widgets/nav-menu.php:772
+#: includes/widgets/nav-menu.php:808 includes/widgets/nav-menu.php:996
+#: includes/widgets/nav-menu.php:1033 includes/widgets/nav-menu.php:1069
+#: includes/widgets/romeo-slideshow.php:376 includes/widgets/video.php:753
+#: includes/widgets/icon-box.php:264 includes/widgets/layla-slideshow.php:376
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/decor.php:85 includes/widgets/divider.php:108
+msgid "Background Color 1"
+msgstr ""
+
+#: includes/widgets/decor.php:100 includes/widgets/divider.php:120
+msgid "Background Color 2"
+msgstr ""
+
+#: includes/widgets/decor.php:112
+msgid "Background Color 3"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:166
+#: includes/widgets/woo-ajax-category.php:202
+#: includes/widgets/text-label.php:120 includes/widgets/accordion.php:275
+#: includes/widgets/button.php:274 includes/widgets/timeline.php:308
+#: includes/widgets/header-icon-box.php:159
+#: includes/widgets/header-contact.php:185 includes/widgets/price-table.php:242
+#: includes/widgets/woo-product-top-sale.php:170
+#: includes/widgets/search.php:297 includes/widgets/countdown.php:372
+#: includes/widgets/icon-list.php:175 includes/widgets/particles.php:322
+#: includes/widgets/woo-wishlist.php:128 includes/widgets/counter.php:282
+#: includes/widgets/nav-menu-popup.php:280
+#: includes/widgets/woo-product-best-seller.php:134
+#: includes/widgets/close-row.php:155
+#: includes/widgets/content-slideshow.php:231
+#: includes/widgets/woo-account.php:230 includes/widgets/team-member.php:315
+#: includes/widgets/testimonial.php:234
+#: includes/widgets/episode-category.php:220
+#: includes/widgets/post-featured.php:267
+#: includes/widgets/woo-product-top-rated.php:170
+#: includes/widgets/decor.php:175 includes/widgets/woo-product-slider.php:202
+#: includes/widgets/steps.php:223 includes/widgets/woo-cart.php:141
+#: includes/widgets/heading.php:272 includes/widgets/banner-creative.php:202
+#: includes/widgets/woo-ajax-order.php:278 includes/widgets/woo-search.php:316
+#: includes/widgets/logo-showcase.php:187 includes/widgets/divider.php:247
+#: includes/widgets/icon-box.php:216 includes/widgets/google-maps.php:192
+#: includes/widgets/image-blob.php:125 includes/widgets/footer-link.php:180
+#: includes/widgets/banner-list.php:339 includes/widgets/menu-post.php:239
+#: includes/widgets/text-animation.php:193 includes/widgets/banner.php:203
+#: includes/widgets/nav-menu-sidebar.php:275
+#: includes/widgets/footer-text.php:113
+#: includes/widgets/price-calculator.php:477 includes/widgets/social.php:204
+#: includes/widgets/images-gallery.php:306 includes/widgets/contact.php:199
+#: includes/widgets/text-list.php:176
+msgid "Background Dark"
+msgstr ""
+
+#: includes/widgets/banner.php:144
+msgid "Banner Description"
+msgstr ""
+
+#: includes/widgets/banner.php:59
+msgid "Banner Settings"
+msgstr ""
+
+#: includes/widgets/banner.php:118
+msgid "Banner Title"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:200
+msgid "Base Description"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:245
+msgid "Base Price List"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:185
+msgid "Base Title"
+msgstr ""
+
+#: includes/widgets/button.php:201 includes/widgets/header-button.php:194
+msgid "Before"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:95
+#: includes/widgets/woo-ajax-order.php:119
+msgid "Best Selling"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:117
+msgid "Best Selling Tab title"
+msgstr ""
+
+#: includes/widgets/banner-list.php:266 includes/widgets/images-gallery.php:249
+msgid "Big Square (2x2)"
+msgstr ""
+
+#: includes/widgets/countdown.php:129 includes/widgets/banner.php:298
+#: includes/widgets/banner.php:322 includes/widgets/banner.php:346
+#: includes/widgets/banner.php:371
+msgid "Block"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:845 includes/widgets/nav-menu.php:1106
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:917 includes/widgets/nav-menu.php:1178
+msgid "Border Width"
+msgstr ""
+
+#: includes/widgets/particles.php:291
+msgid "Bottom"
+msgstr ""
+
+#: includes/widgets/particles.php:292
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/widgets/particles.php:290
+msgid "Bottom Right"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:355 includes/widgets/romeo-slideshow.php:87
+#: includes/widgets/layla-slideshow.php:87
+msgid "Boxed"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:371
+msgid "Breakpoint"
+msgstr ""
+
+#: includes/wp-widgets/haru-widget.php:204
+#: includes/wp-widgets/haru-widget.php:216
+msgid "Browse..."
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:453
+#: includes/widgets/layla-slideshow.php:454
+msgid "Bullets Color"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:329 includes/widgets/search.php:139
+#: includes/widgets/episode-category.php:348
+#: includes/widgets/woo-ajax-order.php:428 includes/widgets/woo-search.php:121
+msgid "Button"
+msgstr ""
+
+#: includes/widgets/banner.php:360
+msgid "Button Display"
+msgstr ""
+
+#: includes/widgets/video.php:83
+msgid "Button Icon"
+msgstr ""
+
+#: includes/widgets/video.php:84
+msgid "Button Icon 2"
+msgstr ""
+
+#: includes/widgets/button.php:239 includes/widgets/header-button.php:232
+msgid "Button ID"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:275
+#: includes/widgets/layla-slideshow.php:275
+msgid "Button Link"
+msgstr ""
+
+#: includes/widgets/button.php:68 includes/widgets/header-button.php:69
+msgid "Button Settings"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:265 includes/widgets/video.php:85
+#: includes/widgets/video.php:93 includes/widgets/steps.php:165
+#: includes/widgets/banner.php:155 includes/widgets/layla-slideshow.php:265
+msgid "Button Text"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:440
+#: includes/widgets/layla-slideshow.php:441
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/helper/theme-functions.php:25
+msgid "Cancel Reply"
+msgstr ""
+
+#: includes/widgets/nav-menu-sidebar.php:102
+msgid "Canvas"
+msgstr ""
+
+#: includes/widgets/nav-menu-sidebar.php:111
+msgid "Canvas Position"
+msgstr ""
+
+#: includes/widgets/woo-cart.php:58
+msgid "Cart Settings"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:85
+msgid "Categories"
+msgstr ""
+
+#: includes/widgets/logo.php:152 includes/widgets/woo-ajax-category.php:298
+#: includes/widgets/button.php:136 includes/widgets/header-icon-box.php:224
+#: includes/widgets/header-contact.php:144 includes/widgets/price-table.php:307
+#: includes/widgets/search.php:240 includes/widgets/countdown.php:278
+#: includes/widgets/woo-wishlist.php:91 includes/widgets/counter.php:214
+#: includes/widgets/nav-menu-popup.php:238 includes/widgets/close-row.php:118
+#: includes/widgets/woo-account.php:97 includes/widgets/logo-footer.php:153
+#: includes/widgets/nav-menu.php:147 includes/widgets/nav-menu.php:411
+#: includes/widgets/nav-menu.php:453 includes/widgets/episode-category.php:317
+#: includes/widgets/video.php:812 includes/widgets/woo-cart.php:104
+#: includes/widgets/heading.php:221 includes/widgets/woo-ajax-order.php:353
+#: includes/widgets/woo-search.php:259 includes/widgets/header-button.php:148
+#: includes/widgets/icon-box.php:298 includes/widgets/footer-link.php:136
+#: includes/widgets/text-animation.php:151
+#: includes/widgets/nav-menu-sidebar.php:233
+#: includes/widgets/footer-text.php:154 includes/widgets/social.php:98
+#: includes/widgets/text-list.php:134
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:215
+msgid "Chevron"
+msgstr ""
+
+#: includes/term-meta/tax-meta-fields.php:16
+msgid "Choose a color"
+msgstr ""
+
+#: includes/term-meta/tax-meta-fields.php:25
+msgid "Choose a Image"
+msgstr ""
+
+#: includes/widgets/timeline.php:161
+msgid "Choose Awards"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:192 includes/widgets/video.php:199
+#: includes/widgets/layla-slideshow.php:192
+msgid "Choose File"
+msgstr ""
+
+#: includes/widgets/accordion.php:110 includes/widgets/timeline.php:122
+#: includes/widgets/icon-list.php:104
+#: includes/widgets/content-slideshow.php:168
+#: includes/widgets/team-member.php:126 includes/widgets/testimonial.php:150
+#: includes/widgets/video.php:573 includes/widgets/steps.php:137
+#: includes/widgets/banner-creative.php:149 includes/widgets/icon-box.php:108
+#: includes/widgets/image-blob.php:91 includes/widgets/banner-list.php:152
+#: includes/widgets/banner-list.php:244 includes/widgets/banner.php:102
+#: includes/widgets/images-gallery.php:151
+#: includes/widgets/images-gallery.php:227
+msgid "Choose Image"
+msgstr ""
+
+#: includes/widgets/banner-creative.php:230 includes/widgets/image-blob.php:150
+#: includes/widgets/images-gallery.php:331
+msgid "Choose Image Hover style."
+msgstr ""
+
+#: includes/widgets/logo.php:66 includes/widgets/logo-footer.php:67
+#: includes/widgets/logo-showcase.php:117
+msgid "Choose Logo"
+msgstr ""
+
+#: includes/widgets/logo.php:94 includes/widgets/logo-footer.php:95
+msgid "Choose Logo Dark Mode"
+msgstr ""
+
+#: includes/widgets/logo-showcase.php:199
+msgid "Choose Logo Hover style."
+msgstr ""
+
+#: includes/widgets/logo.php:80 includes/widgets/logo-footer.php:81
+msgid "Choose Logo Retina"
+msgstr ""
+
+#: includes/widgets/logo.php:108 includes/widgets/logo-footer.php:109
+msgid "Choose Logo Retina Dark Mode"
+msgstr ""
+
+#: includes/widgets/post-featured.php:309
+msgid "Choose Post Hover style."
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:235 includes/widgets/tabs.php:235
+#: includes/widgets/nav-menu-popup.php:185
+#: includes/widgets/content-slideshow.php:156
+#: includes/widgets/nav-menu-sidebar.php:180
+msgid "Choose Template"
+msgstr ""
+
+#: includes/widgets/particles.php:138
+msgid "Circle"
+msgstr ""
+
+#: includes/widgets/search.php:100 includes/widgets/nav-menu.php:214
+#: includes/widgets/woo-search.php:100
+msgid "Classic"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:267 includes/widgets/banner.php:157
+#: includes/widgets/layla-slideshow.php:267
+msgid "Click Here"
+msgstr ""
+
+#: includes/widgets/button.php:101 includes/widgets/button.php:102
+#: includes/widgets/header-button.php:99 includes/widgets/header-button.php:100
+msgid "Click here"
+msgstr ""
+
+#: includes/helper/theme-functions.php:34
+msgid "Click here to cancel reply."
+msgstr ""
+
+#: includes/wp-widgets/haru-widget.php:204
+msgid "Click to browse icon"
+msgstr ""
+
+#: includes/wp-widgets/haru-widget.php:216
+msgid "Click to browse image"
+msgstr ""
+
+#: includes/widgets/search.php:408 includes/widgets/nav-menu.php:309
+msgid "Close"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:319
+msgid "Close On Start"
+msgstr ""
+
+#: includes/widgets/close-row.php:61
+msgid "Close Row Settings"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:307
+msgid "Close Text"
+msgstr ""
+
+#: includes/term-meta/tax-meta-fields.php:15 includes/widgets/video.php:682
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/particles.php:160
+msgid "Color 1"
+msgstr ""
+
+#: includes/widgets/particles.php:172
+msgid "Color 2"
+msgstr ""
+
+#: includes/widgets/particles.php:184
+msgid "Color 3"
+msgstr ""
+
+#: includes/widgets/particles.php:196
+msgid "Color 4"
+msgstr ""
+
+#: includes/widgets/particles.php:208
+msgid "Color 5"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:213
+#: includes/widgets/icon-list.php:215 includes/widgets/team-member.php:348
+#: includes/widgets/testimonial.php:279 includes/widgets/testimonial.php:306
+#: includes/widgets/testimonial.php:333
+#: includes/widgets/episode-category.php:231
+#: includes/widgets/post-featured.php:440 includes/widgets/steps.php:263
+#: includes/widgets/woo-ajax-order.php:398
+#: includes/widgets/logo-showcase.php:245 includes/widgets/banner-list.php:530
+#: includes/widgets/images-gallery.php:470
+msgid "Columns"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:68
+msgid "Comment"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:125
+#: includes/widgets/woo-product-top-rated.php:125
+msgid "Comment Count"
+msgstr ""
+
+#: includes/widgets/header-contact.php:113 includes/widgets/contact.php:116
+msgid "Contact List"
+msgstr ""
+
+#: includes/widgets/header-contact.php:58 includes/widgets/contact.php:57
+msgid "Contact Settings"
+msgstr ""
+
+#: includes/widgets/contact.php:139
+msgid "Contact Us"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:370 core/libraries/theme-metabox.php:533
+#: core/libraries/theme-metabox.php:552 core/libraries/theme-metabox.php:772
+#: includes/posttypes/megamenu.php:144
+msgid "Container"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:78
+#: includes/widgets/woo-ajax-category.php:66 includes/widgets/text-label.php:61
+#: includes/widgets/accordion.php:61 includes/widgets/accordion.php:100
+#: includes/widgets/timeline.php:70 includes/widgets/menu-tabs.php:146
+#: includes/widgets/menu-tabs.php:226 includes/widgets/tabs.php:146
+#: includes/widgets/tabs.php:226 includes/widgets/header-icon-box.php:208
+#: includes/widgets/header-contact.php:103 includes/widgets/price-table.php:291
+#: includes/widgets/icon-list.php:60 includes/widgets/content-slideshow.php:89
+#: includes/widgets/content-slideshow.php:147
+#: includes/widgets/team-member.php:82 includes/widgets/testimonial.php:82
+#: includes/widgets/episode-category.php:74
+#: includes/widgets/post-featured.php:105
+#: includes/widgets/romeo-slideshow.php:75 includes/widgets/decor.php:59
+#: includes/widgets/woo-product-slider.php:67 includes/widgets/steps.php:84
+#: includes/widgets/banner-creative.php:93
+#: includes/widgets/woo-ajax-order.php:69 includes/widgets/logo-showcase.php:84
+#: includes/widgets/divider.php:59 includes/widgets/icon-box.php:282
+#: includes/widgets/image-blob.php:70 includes/widgets/footer-link.php:58
+#: includes/widgets/banner-list.php:92 includes/widgets/menu-post.php:80
+#: includes/widgets/text-animation.php:61 includes/widgets/footer-text.php:62
+#: includes/widgets/social.php:60 includes/widgets/images-gallery.php:92
+#: includes/widgets/contact.php:106 includes/widgets/text-list.php:60
+#: includes/widgets/layla-slideshow.php:75 includes/posttypes/content.php:35
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/countdown.php:267 includes/widgets/counter.php:202
+msgid "Content Align"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:227 includes/widgets/tabs.php:227
+#: includes/widgets/content-slideshow.php:148 includes/posttypes/content.php:34
+msgid "Content Builders"
+msgstr ""
+
+#: includes/widgets/contact.php:264
+msgid "Content Color"
+msgstr ""
+
+#: includes/widgets/contact.php:329
+msgid "Content Font Size"
+msgstr ""
+
+#: includes/widgets/price-table.php:201
+#: includes/widgets/price-calculator.php:119
+msgid "Content List"
+msgstr ""
+
+#: includes/widgets/video.php:808
+msgid "Content Position"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:223 includes/widgets/tabs.php:223
+#: includes/widgets/content-slideshow.php:144
+msgid "Content Type"
+msgstr ""
+
+#: includes/widgets/video.php:789
+msgid "Content Width"
+msgstr ""
+
+#: includes/widgets/video.php:492
+msgid "Controls Color"
+msgstr ""
+
+#: includes/widgets/counter.php:177 includes/widgets/counter.php:178
+msgid "Cool Number"
+msgstr ""
+
+#: includes/scss/scss-functions.php:55
+msgid "Could not save file! Please check your Server Permissions."
+msgstr ""
+
+#: includes/widgets/countdown.php:78
+msgid "Countdown"
+msgstr ""
+
+#: includes/widgets/counter.php:60 includes/widgets/romeo-slideshow.php:237
+#: includes/widgets/layla-slideshow.php:237
+msgid "Counter"
+msgstr ""
+
+#: includes/widgets/layla-slideshow.php:245
+msgid "Counter Label"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:245
+msgid "Counter Text"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:414
+#: includes/widgets/layla-slideshow.php:414
+msgid "Counter Text Color"
+msgstr ""
+
+#: includes/widgets/banner-creative.php:106
+#: includes/widgets/banner-list.php:109 includes/widgets/images-gallery.php:108
+msgid "Creative"
+msgstr ""
+
+#: includes/widgets/woo-search.php:103
+msgid "Creative Border"
+msgstr ""
+
+#: includes/widgets/logo.php:174 includes/widgets/text-scroll.php:146
+#: includes/widgets/woo-ajax-category.php:182
+#: includes/widgets/text-label.php:100 includes/widgets/accordion.php:255
+#: includes/widgets/button.php:254 includes/widgets/timeline.php:288
+#: includes/widgets/menu-tabs.php:291 includes/widgets/tabs.php:291
+#: includes/widgets/header-icon-box.php:139
+#: includes/widgets/header-contact.php:165 includes/widgets/price-table.php:222
+#: includes/widgets/woo-product-top-sale.php:150
+#: includes/widgets/search.php:277 includes/widgets/countdown.php:352
+#: includes/widgets/icon-list.php:155 includes/widgets/particles.php:302
+#: includes/widgets/woo-wishlist.php:108 includes/widgets/counter.php:262
+#: includes/widgets/nav-menu-popup.php:260
+#: includes/widgets/woo-product-best-seller.php:114
+#: includes/widgets/close-row.php:135
+#: includes/widgets/content-slideshow.php:211
+#: includes/widgets/woo-account.php:210 includes/widgets/logo-footer.php:175
+#: includes/widgets/team-member.php:295 includes/widgets/nav-menu.php:479
+#: includes/widgets/testimonial.php:214
+#: includes/widgets/episode-category.php:200
+#: includes/widgets/post-featured.php:247
+#: includes/widgets/romeo-slideshow.php:225
+#: includes/widgets/woo-product-top-rated.php:150
+#: includes/widgets/decor.php:155 includes/widgets/video.php:540
+#: includes/widgets/woo-product-slider.php:182 includes/widgets/steps.php:203
+#: includes/widgets/woo-cart.php:121 includes/widgets/heading.php:243
+#: includes/widgets/banner-creative.php:182
+#: includes/widgets/woo-ajax-order.php:258 includes/widgets/woo-search.php:296
+#: includes/widgets/logo-showcase.php:167
+#: includes/widgets/header-button.php:247 includes/widgets/divider.php:227
+#: includes/widgets/icon-box.php:196 includes/widgets/google-maps.php:172
+#: includes/widgets/image-blob.php:105 includes/widgets/footer-link.php:160
+#: includes/widgets/banner-list.php:319 includes/widgets/menu-post.php:219
+#: includes/widgets/text-animation.php:173 includes/widgets/banner.php:183
+#: includes/widgets/nav-menu-sidebar.php:255
+#: includes/widgets/nav-menu-template.php:140
+#: includes/widgets/footer-text.php:93
+#: includes/widgets/price-calculator.php:457 includes/widgets/social.php:184
+#: includes/widgets/images-gallery.php:286 includes/widgets/contact.php:179
+#: includes/widgets/text-list.php:156 includes/widgets/layla-slideshow.php:225
+msgid "CSS Classes"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:171
+msgid "Currency Symbol"
+msgstr ""
+
+#: includes/widgets/video.php:437
+msgid "Current Video Channel"
+msgstr ""
+
+#: includes/widgets/woo-account.php:150
+msgid "Custom Account"
+msgstr ""
+
+#: includes/widgets/countdown.php:196
+msgid "Custom Label"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:103
+#: includes/widgets/layla-slideshow.php:103
+msgid "Custom Videos"
+msgstr ""
+
+#: includes/widgets/video.php:114
+msgid "Dailymotion"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:467
+msgid "Dark"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:66
+msgid "Date"
+msgstr ""
+
+#. %s: Time zone.
+#: includes/widgets/countdown.php:116
+#, php-format
+msgid "Date set according to your timezone: %s."
+msgstr ""
+
+#: includes/widgets/countdown.php:140 includes/widgets/countdown.php:207
+#: includes/widgets/countdown.php:209 includes/widgets/countdown.php:210
+#: includes/widgets/countdown.php:425
+msgid "Days"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:354 core/libraries/theme-metabox.php:368
+#: core/libraries/theme-metabox.php:382 core/libraries/theme-metabox.php:452
+#: core/libraries/theme-metabox.php:465 core/libraries/theme-metabox.php:478
+#: core/libraries/theme-metabox.php:491 core/libraries/theme-metabox.php:518
+#: core/libraries/theme-metabox.php:531 core/libraries/theme-metabox.php:550
+#: core/libraries/theme-metabox.php:616 core/libraries/theme-metabox.php:634
+#: core/libraries/theme-metabox.php:691 core/libraries/theme-metabox.php:706
+#: core/libraries/theme-metabox.php:726 core/libraries/theme-metabox.php:744
+#: core/libraries/theme-metabox.php:770
+#: includes/wp-widgets/haru-woo-sorting.php:49
+#: includes/widgets/countdown.php:387 includes/widgets/video.php:82
+#: includes/widgets/woo-search.php:341 includes/widgets/banner.php:229
+#: includes/widgets/social.php:229
+msgid "Default"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:235
+#: includes/widgets/price-calculator.php:320
+#: includes/widgets/price-calculator.php:421
+msgid "Default Active"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:249
+msgid "Demo Already Imported"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:98
+msgid "Demo Imported"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:276
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:278
+msgid "Demo Importer"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:300
+msgid "Demo Importer Tutorial"
+msgstr ""
+
+#: includes/widgets/particles.php:113
+msgid "Density"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:78
+msgid "DESC"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:140
+#: includes/widgets/woo-product-top-rated.php:140
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/timeline.php:112 includes/widgets/timeline.php:177
+#: includes/widgets/timeline.php:183 includes/widgets/timeline.php:217
+#: includes/widgets/timeline.php:268 includes/widgets/timeline.php:274
+#: includes/widgets/price-table.php:144 includes/widgets/counter.php:185
+#: includes/widgets/counter.php:191 includes/widgets/counter.php:192
+#: includes/widgets/content-slideshow.php:132
+#: includes/widgets/content-slideshow.php:189
+#: includes/widgets/content-slideshow.php:195
+#: includes/widgets/testimonial.php:140 includes/widgets/testimonial.php:204
+#: includes/widgets/steps.php:126 includes/widgets/banner-creative.php:136
+#: includes/widgets/banner-creative.php:165
+#: includes/widgets/banner-creative.php:171
+#: includes/widgets/banner-list.php:139 includes/widgets/banner-list.php:187
+#: includes/widgets/banner-list.php:194 includes/widgets/banner-list.php:231
+#: includes/widgets/banner-list.php:295 includes/widgets/banner-list.php:303
+#: includes/widgets/banner.php:142 includes/widgets/price-calculator.php:369
+#: includes/widgets/images-gallery.php:138
+#: includes/widgets/images-gallery.php:172
+#: includes/widgets/images-gallery.php:178
+#: includes/widgets/images-gallery.php:214
+#: includes/widgets/images-gallery.php:264
+#: includes/widgets/images-gallery.php:271
+msgid "Description"
+msgstr ""
+
+#: includes/widgets/steps.php:182
+msgid "Description #1"
+msgstr ""
+
+#: includes/widgets/steps.php:190
+msgid "Description #2"
+msgstr ""
+
+#: includes/widgets/banner.php:336
+msgid "Description Display"
+msgstr ""
+
+#: includes/widgets/testimonial.php:130 includes/widgets/testimonial.php:133
+msgid "Description Title"
+msgstr ""
+
+#: includes/widgets/testimonial.php:199
+msgid "Description."
+msgstr ""
+
+#: includes/widgets/testimonial.php:267
+msgid "Desktop Settings"
+msgstr ""
+
+#: includes/widgets/timeline.php:242
+msgid "Detail"
+msgstr ""
+
+#: includes/widgets/particles.php:282
+msgid "Direction"
+msgstr ""
+
+#: includes/widgets/price-table.php:190
+#: includes/widgets/price-calculator.php:108
+#: includes/posttypes/megamenu.php:124
+msgid "Disable"
+msgstr ""
+
+#: includes/widgets/counter.php:293
+msgid "Disable Appear"
+msgstr ""
+
+#: includes/widgets/counter.php:295
+msgid "Disable start Counter when appear."
+msgstr ""
+
+#: includes/widgets/price-table.php:192
+#: includes/widgets/price-calculator.php:110
+msgid "Disable this content."
+msgstr ""
+
+#: includes/term-meta/include/term-meta-generator-class.php:236
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/posttypes/content.php:50
+msgid "Display Content of site"
+msgstr ""
+
+#: includes/posttypes/footer.php:50
+msgid "Display Footer of site"
+msgstr ""
+
+#: includes/posttypes/header.php:49
+msgid "Display Header of site"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:59
+msgid "Display MegaMenu of site"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:88
+msgid "Display type"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:936 includes/widgets/nav-menu.php:1197
+msgid "Distance"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:899 includes/widgets/nav-menu.php:1160
+msgid "Divider"
+msgstr ""
+
+#: includes/widgets/decor.php:124
+msgid "Dot Size"
+msgstr ""
+
+#: includes/widgets/content-slideshow.php:277
+msgid "Dots"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:176
+msgid "Double Line"
+msgstr ""
+
+#: includes/widgets/video.php:504
+msgid "Download Button"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:294
+#: includes/widgets/nav-menu-sidebar.php:289
+msgid "Dropdown Menu"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:958
+msgid "Dropdown Mobile"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:697
+msgid "Dropdown Sub Menu"
+msgstr ""
+
+#: includes/widgets/countdown.php:103 includes/widgets/countdown.php:112
+msgid "Due Date"
+msgstr ""
+
+#: includes/widgets/particles.php:139
+msgid "Edge"
+msgstr ""
+
+#: includes/posttypes/content.php:39
+msgid "Edit Content"
+msgstr ""
+
+#: includes/posttypes/footer.php:39
+msgid "Edit Footer"
+msgstr ""
+
+#: includes/posttypes/header.php:38
+msgid "Edit Header"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:48
+msgid "Edit MegaMenu"
+msgstr ""
+
+#: includes/wp-widgets/haru-navigation-menu.php:199
+msgid "Edit Menu"
+msgstr ""
+
+#: haru-teespace.php:215 haru-teespace.php:239
+msgid "Elementor"
+msgstr ""
+
+#: includes/widgets/particles.php:260
+msgid "Enable"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:92 includes/widgets/tabs.php:91
+msgid "Enable Icon"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:168
+#: includes/widgets/woo-ajax-category.php:204
+#: includes/widgets/text-label.php:122 includes/widgets/accordion.php:277
+#: includes/widgets/button.php:276 includes/widgets/timeline.php:310
+#: includes/widgets/header-icon-box.php:161
+#: includes/widgets/header-contact.php:187 includes/widgets/price-table.php:244
+#: includes/widgets/woo-product-top-sale.php:172
+#: includes/widgets/search.php:299 includes/widgets/countdown.php:374
+#: includes/widgets/icon-list.php:177 includes/widgets/particles.php:324
+#: includes/widgets/woo-wishlist.php:130 includes/widgets/counter.php:284
+#: includes/widgets/nav-menu-popup.php:282
+#: includes/widgets/woo-product-best-seller.php:136
+#: includes/widgets/close-row.php:157
+#: includes/widgets/content-slideshow.php:233
+#: includes/widgets/woo-account.php:232 includes/widgets/team-member.php:317
+#: includes/widgets/testimonial.php:236
+#: includes/widgets/episode-category.php:222
+#: includes/widgets/post-featured.php:269
+#: includes/widgets/woo-product-top-rated.php:172
+#: includes/widgets/decor.php:177 includes/widgets/woo-product-slider.php:204
+#: includes/widgets/steps.php:225 includes/widgets/woo-cart.php:143
+#: includes/widgets/heading.php:274 includes/widgets/banner-creative.php:204
+#: includes/widgets/woo-ajax-order.php:280 includes/widgets/woo-search.php:318
+#: includes/widgets/logo-showcase.php:189 includes/widgets/divider.php:249
+#: includes/widgets/icon-box.php:218 includes/widgets/google-maps.php:194
+#: includes/widgets/image-blob.php:127 includes/widgets/footer-link.php:182
+#: includes/widgets/banner-list.php:341 includes/widgets/menu-post.php:241
+#: includes/widgets/text-animation.php:195 includes/widgets/banner.php:205
+#: includes/widgets/nav-menu-sidebar.php:277
+#: includes/widgets/footer-text.php:115
+#: includes/widgets/price-calculator.php:479 includes/widgets/social.php:206
+#: includes/widgets/images-gallery.php:308 includes/widgets/contact.php:201
+#: includes/widgets/text-list.php:178
+msgid "Enable if use for section has background dark."
+msgstr ""
+
+#: includes/widgets/woo-account.php:152
+msgid "Enable if want to custom account link."
+msgstr ""
+
+#: includes/widgets/banner.php:263
+msgid "Enable if want to show shadow of banner."
+msgstr ""
+
+#: includes/widgets/button.php:287 includes/widgets/header-button.php:124
+msgid "Enable if want to show shadow of Button."
+msgstr ""
+
+#: includes/widgets/icon-box.php:171
+msgid "Enable if you want Icon bigger than others."
+msgstr ""
+
+#: includes/widgets/divider.php:215
+msgid "Enable if you want reverse Shape."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:474
+msgid ""
+"Enable/Disable Header Sticky. This option will override settings in Theme "
+"Options -> Header -> Header Sticky."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:448
+msgid ""
+"Enable/Disable Header Transparent. This option will override settings in "
+"Theme Options -> Header -> Header Transparent."
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:330
+msgid "Enable/Disable your site maintenance mode."
+msgstr ""
+
+#: includes/widgets/accordion.php:307
+msgid "End"
+msgstr ""
+
+#: includes/widgets/video.php:253
+msgid "End Time"
+msgstr ""
+
+#: includes/widgets/counter.php:95
+msgid "Ending Number"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:174
+msgid "Enter currency symbol."
+msgstr ""
+
+#: includes/widgets/header-icon-box.php:116 includes/widgets/icon-box.php:145
+#: includes/widgets/price-calculator.php:203
+#: includes/widgets/price-calculator.php:372
+msgid "Enter your description"
+msgstr ""
+
+#: includes/widgets/price-table.php:111
+msgid "Enter your featured text"
+msgstr ""
+
+#: includes/widgets/price-table.php:147
+#: includes/widgets/price-calculator.php:289
+msgid "Enter your label"
+msgstr ""
+
+#: includes/widgets/heading.php:131 includes/widgets/icon-box.php:158
+msgid "Enter your sub title"
+msgstr ""
+
+#: includes/widgets/header-icon-box.php:102
+#: includes/widgets/price-table.php:125 includes/widgets/heading.php:118
+#: includes/widgets/icon-box.php:131 includes/widgets/price-calculator.php:86
+#: includes/widgets/price-calculator.php:188
+#: includes/widgets/price-calculator.php:274
+msgid "Enter your title"
+msgstr ""
+
+#: includes/widgets/video.php:133 includes/widgets/video.php:155
+#: includes/widgets/video.php:176 includes/widgets/video.php:232
+msgid "Enter your URL"
+msgstr ""
+
+#: includes/widgets/video.php:827
+msgid "Entrance Animation"
+msgstr ""
+
+#: includes/widgets/episode-category.php:279
+msgid "Episode Filter"
+msgstr ""
+
+#: includes/widgets/episode-category.php:309
+msgid "Episode Filter Align"
+msgstr ""
+
+#: includes/widgets/episode-category.php:293
+msgid "Episode Filter All"
+msgstr ""
+
+#: includes/widgets/episode-category.php:266
+msgid "Episode Padding"
+msgstr ""
+
+#: includes/widgets/episode-category.php:252
+msgid "Episode Style"
+msgstr ""
+
+#: includes/widgets/episode-category.php:66
+msgid "Episodes"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:132
+#: includes/widgets/episode-category.php:150
+#: includes/widgets/post-featured.php:189
+#: includes/widgets/woo-product-slider.php:132
+#: includes/widgets/woo-ajax-order.php:208 includes/widgets/menu-post.php:161
+msgid "Exclude"
+msgstr ""
+
+#: includes/widgets/video.php:188
+msgid "External URL"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:427
+msgid "Extra Class"
+msgstr ""
+
+#: includes/widgets/button.php:59 includes/widgets/woo-search.php:344
+#: includes/widgets/header-button.php:60
+msgid "Extra Large"
+msgstr ""
+
+#: includes/widgets/button.php:55 includes/widgets/header-button.php:56
+msgid "Extra Small"
+msgstr ""
+
+#: includes/helper/theme-functions.php:53
+msgid "Facebook"
+msgstr ""
+
+#: includes/widgets/accordion.php:246
+msgid "FAQ Schema"
+msgstr ""
+
+#: includes/widgets/price-table.php:82 includes/widgets/price-table.php:110
+#: includes/widgets/woo-ajax-order.php:96
+#: includes/widgets/woo-ajax-order.php:128
+msgid "Featured"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:126
+msgid "Featured Tab title"
+msgstr ""
+
+#: includes/widgets/price-table.php:108
+msgid "Featured Text"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:61
+msgid "Filter by"
+msgstr ""
+
+#: includes/widgets/banner.php:300 includes/widgets/banner.php:324
+#: includes/widgets/banner.php:348 includes/widgets/banner.php:373
+msgid "Flex"
+msgstr ""
+
+#: includes/helper/theme-functions.php:77
+msgid "Flickr"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:357
+msgid "Float"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:299
+#: includes/widgets/romeo-slideshow.php:629
+#: includes/widgets/layla-slideshow.php:299
+msgid "Follow us"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:326 includes/posttypes/footer.php:35
+msgid "Footer"
+msgstr ""
+
+#: includes/posttypes/footer.php:34
+msgid "Footer Builders"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:500
+msgid "Footer Layout"
+msgstr ""
+
+#: includes/widgets/search.php:102 includes/widgets/woo-search.php:102
+msgid "Full Screen"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:369 core/libraries/theme-metabox.php:532
+#: core/libraries/theme-metabox.php:551 core/libraries/theme-metabox.php:771
+#: includes/widgets/nav-menu.php:391
+msgid "Full Width"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:88
+#: includes/widgets/layla-slideshow.php:88
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:149
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:102
+#: includes/widgets/layla-slideshow.php:102
+msgid "Gallery"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:701
+msgid "Gallery Thumbnail Columns"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:721
+msgid "Gallery Thumbnail Position"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:71 includes/widgets/tabs.php:70
+msgid "General Settings"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:171 includes/widgets/nav-menu.php:114
+#: includes/widgets/nav-menu.php:359 includes/widgets/nav-menu-sidebar.php:166
+#: includes/widgets/nav-menu-template.php:130
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:160 includes/widgets/nav-menu.php:106
+#: includes/widgets/nav-menu.php:351 includes/widgets/nav-menu-sidebar.php:155
+#: includes/widgets/nav-menu-template.php:122
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: includes/widgets/google-maps.php:63
+msgid "Google Maps Settings"
+msgstr ""
+
+#: includes/widgets/logo-showcase.php:206
+msgid "GrayScale"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:78
+#: includes/widgets/team-member.php:97 includes/widgets/testimonial.php:102
+#: includes/widgets/episode-category.php:96
+#: includes/widgets/post-featured.php:121
+#: includes/widgets/woo-ajax-order.php:81 includes/widgets/logo-showcase.php:98
+#: includes/widgets/banner-list.php:108 includes/widgets/images-gallery.php:107
+msgid "Grid"
+msgstr ""
+
+#: includes/widgets/team-member.php:98
+msgid "Grid 2"
+msgstr ""
+
+#: includes/widgets/testimonial.php:103
+msgid "Grid 2 (2 Columns)"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:695
+msgid "Grid Gallery"
+msgstr ""
+
+#: includes/widgets/icon-list.php:188 includes/widgets/team-member.php:328
+#: includes/widgets/testimonial.php:247 includes/widgets/post-featured.php:420
+#: includes/widgets/steps.php:236 includes/widgets/woo-ajax-order.php:380
+#: includes/widgets/logo-showcase.php:218 includes/widgets/banner-list.php:503
+#: includes/widgets/images-gallery.php:443
+msgid "Grid Options"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:201 includes/widgets/nav-menu.php:428
+#: includes/widgets/nav-menu-sidebar.php:196
+msgid "Hamburger"
+msgstr ""
+
+#: includes/widgets/accordion.php:33
+msgid "Haru Accordion"
+msgstr ""
+
+#: includes/widgets/banner.php:30
+msgid "Haru Banner"
+msgstr ""
+
+#: includes/widgets/banner-creative.php:32
+msgid "Haru Banner Creative"
+msgstr ""
+
+#: includes/widgets/banner-list.php:32
+msgid "Haru Banner List"
+msgstr ""
+
+#: includes/widgets/button.php:30
+msgid "Haru Button"
+msgstr ""
+
+#: includes/widgets/close-row.php:30
+msgid "Haru Close Row"
+msgstr ""
+
+#: includes/widgets/contact.php:30
+msgid "Haru Contact"
+msgstr ""
+
+#: includes/widgets/content-slideshow.php:33
+msgid "Haru Content Slideshow"
+msgstr ""
+
+#: includes/widgets/countdown.php:36
+msgid "Haru Countdown"
+msgstr ""
+
+#: includes/widgets/counter.php:29
+msgid "Haru Counter"
+msgstr ""
+
+#: includes/widgets/decor.php:31
+msgid "Haru Decor"
+msgstr ""
+
+#: includes/widgets/divider.php:31
+msgid "Haru Divider"
+msgstr ""
+
+#: haru-teespace.php:346
+msgid "Haru Elements"
+msgstr ""
+
+#: includes/widgets/episode-category.php:37
+msgid "Haru Episode Category"
+msgstr ""
+
+#: haru-teespace.php:362
+msgid "Haru Footer Elements"
+msgstr ""
+
+#: includes/widgets/footer-link.php:31
+msgid "Haru Footer Link"
+msgstr ""
+
+#: includes/widgets/logo-footer.php:30
+msgid "Haru Footer Logo"
+msgstr ""
+
+#: includes/widgets/footer-text.php:34
+msgid "Haru Footer Text"
+msgstr ""
+
+#: includes/widgets/google-maps.php:34
+msgid "Haru Google Maps"
+msgstr ""
+
+#: includes/widgets/header-button.php:30
+msgid "Haru Header Button"
+msgstr ""
+
+#: includes/widgets/header-contact.php:30
+msgid "Haru Header Contact"
+msgstr ""
+
+#: haru-teespace.php:354
+msgid "Haru Header Elements"
+msgstr ""
+
+#: includes/widgets/header-icon-box.php:33
+msgid "Haru Header Icon Box"
+msgstr ""
+
+#: includes/widgets/logo.php:30
+msgid "Haru Header Logo"
+msgstr ""
+
+#: includes/widgets/heading.php:32
+msgid "Haru Heading"
+msgstr ""
+
+#: includes/widgets/icon-box.php:33
+msgid "Haru Icon Box"
+msgstr ""
+
+#: includes/widgets/icon-list.php:32
+msgid "Haru Icon List"
+msgstr ""
+
+#: includes/widgets/image-blob.php:31
+msgid "Haru Image Blob"
+msgstr ""
+
+#: includes/widgets/images-gallery.php:32
+msgid "Haru Images Gallery"
+msgstr ""
+
+#: includes/widgets/layla-slideshow.php:39
+msgid "Haru Layla Slideshow"
+msgstr ""
+
+#: includes/widgets/logo-showcase.php:32
+msgid "Haru Logo Showcase"
+msgstr ""
+
+#: includes/widgets/menu-post.php:37
+msgid "Haru Menu Post"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:38
+msgid "Haru Menu Tabs"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:37
+msgid "Haru Nav Menu"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:39
+msgid "Haru Nav Menu Popup"
+msgstr ""
+
+#: includes/widgets/nav-menu-sidebar.php:39
+msgid "Haru Nav Menu Sidebar"
+msgstr ""
+
+#: includes/widgets/nav-menu-template.php:39
+msgid "Haru Nav Menu Template"
+msgstr ""
+
+#: includes/wp-widgets/haru-navigation-menu.php:33
+msgid "Haru Navigation Menu"
+msgstr ""
+
+#: includes/widgets/particles.php:34
+msgid "Haru Particles"
+msgstr ""
+
+#: includes/widgets/post-featured.php:37
+msgid "Haru Post Featured"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:21
+msgid "Haru Post List"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:34
+msgid "Haru Price Calculator"
+msgstr ""
+
+#: includes/widgets/price-table.php:34
+msgid "Haru Price Table"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:39
+msgid "Haru Romeo Slideshow"
+msgstr ""
+
+#: includes/widgets/search.php:34
+msgid "Haru Search Form"
+msgstr ""
+
+#: includes/widgets/social.php:30
+msgid "Haru Social"
+msgstr ""
+
+#: includes/widgets/steps.php:32
+msgid "Haru Steps"
+msgstr ""
+
+#: includes/widgets/tabs.php:38
+msgid "Haru Tabs"
+msgstr ""
+
+#: includes/widgets/team-member.php:32
+msgid "Haru Team Member"
+msgstr ""
+
+#. Name of the plugin
+#: haru-teespace.php:214 haru-teespace.php:238 haru-teespace.php:263
+msgid "Haru TeeSpace"
+msgstr ""
+
+#. Description of the plugin
+msgid "Haru TeeSpace extension from HaruTheme."
+msgstr ""
+
+#: includes/widgets/testimonial.php:32
+msgid "Haru Testimonial"
+msgstr ""
+
+#: includes/widgets/text-animation.php:32
+msgid "Haru Text Animation"
+msgstr ""
+
+#: includes/widgets/text-label.php:32
+msgid "Haru Text Label"
+msgstr ""
+
+#: includes/widgets/text-list.php:32
+msgid "Haru Text List"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:32
+msgid "Haru Text Scroll"
+msgstr ""
+
+#: includes/widgets/timeline.php:33
+msgid "Haru Timeline"
+msgstr ""
+
+#: includes/widgets/video.php:37
+msgid "Haru Video"
+msgstr ""
+
+#: includes/widgets/woo-account.php:31
+msgid "Haru Woo Account"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:32
+msgid "Haru Woo Ajax Category"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:32
+msgid "Haru Woo Ajax Order"
+msgstr ""
+
+#: includes/widgets/woo-cart.php:30
+msgid "Haru Woo Cart"
+msgstr ""
+
+#: includes/widgets/woo-product-best-seller.php:31
+msgid "Haru Woo Product Best Seller"
+msgstr ""
+
+#: includes/widgets/woo-product-slider.php:32
+msgid "Haru Woo Product Slider"
+msgstr ""
+
+#: includes/widgets/woo-product-top-rated.php:31
+msgid "Haru Woo Product Top Rated"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:31
+msgid "Haru Woo Product Top Sale"
+msgstr ""
+
+#: includes/widgets/woo-search.php:34
+msgid "Haru Woo Search"
+msgstr ""
+
+#: includes/widgets/woo-wishlist.php:30
+msgid "Haru Woo Wishlist"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:27
+msgid "Haru WooCommerce Layered Nav"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-price-filter.php:23
+msgid "Haru WooCommerce Price Filter"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-sorting.php:21
+msgid "Haru WooCommerce Sorting"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-stock-status.php:21
+msgid "Haru WooCommerce Stock Status"
+msgstr ""
+
+#. Author of the plugin
+msgid "HaruTheme"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:252
+#: includes/widgets/episode-category.php:271
+#: includes/widgets/post-featured.php:300
+#: includes/widgets/woo-product-slider.php:231
+#: includes/widgets/banner-creative.php:218
+#: includes/widgets/woo-ajax-order.php:307 includes/widgets/image-blob.php:141
+#: includes/widgets/banner-list.php:365 includes/widgets/images-gallery.php:322
+msgid "Has Padding"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:314 core/libraries/theme-metabox.php:492
+#: includes/posttypes/header.php:34
+msgid "Header"
+msgstr ""
+
+#: includes/posttypes/header.php:33
+msgid "Header Builders"
+msgstr ""
+
+#: includes/widgets/header-icon-box.php:63
+msgid "Header Icon Box"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:435
+msgid "Header Layout"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:249
+msgid "Header Metabox"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:266
+msgid "Header Sidebar Hidden"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:473
+msgid "Header Sticky"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:486
+msgid "Header Sticky Element"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:447
+msgid "Header Transparent"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:460
+msgid "Header Transparent Skin"
+msgstr ""
+
+#: includes/widgets/contact.php:137
+msgid "Heading"
+msgstr ""
+
+#: includes/widgets/heading.php:59
+msgid "Heading Settings"
+msgstr ""
+
+#: includes/widgets/divider.php:132 includes/widgets/google-maps.php:141
+msgid "Height"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:267
+msgid ""
+"Hidden Header Sidebar on Mobile or Tablet. You should use Normal Header on "
+"Mobile Devices."
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:264
+#: includes/widgets/woo-ajax-category.php:279 includes/widgets/timeline.php:343
+#: includes/widgets/woo-product-top-sale.php:212
+#: includes/widgets/countdown.php:143 includes/widgets/countdown.php:154
+#: includes/widgets/countdown.php:165 includes/widgets/countdown.php:176
+#: includes/widgets/countdown.php:187 includes/widgets/countdown.php:308
+#: includes/widgets/counter.php:148
+#: includes/widgets/woo-product-best-seller.php:176
+#: includes/widgets/content-slideshow.php:266
+#: includes/widgets/content-slideshow.php:280
+#: includes/widgets/team-member.php:387 includes/widgets/testimonial.php:372
+#: includes/widgets/episode-category.php:283
+#: includes/widgets/episode-category.php:298
+#: includes/widgets/post-featured.php:348
+#: includes/widgets/woo-product-top-rated.php:212
+#: includes/widgets/video.php:332 includes/widgets/video.php:347
+#: includes/widgets/video.php:374 includes/widgets/video.php:452
+#: includes/widgets/video.php:466 includes/widgets/video.php:480
+#: includes/widgets/video.php:506 includes/widgets/video.php:564
+#: includes/widgets/woo-product-slider.php:270 includes/widgets/steps.php:309
+#: includes/widgets/woo-cart.php:83 includes/widgets/banner-creative.php:269
+#: includes/widgets/woo-ajax-order.php:319
+#: includes/widgets/woo-ajax-order.php:334
+#: includes/widgets/woo-ajax-order.php:470
+#: includes/widgets/logo-showcase.php:291 includes/widgets/banner-list.php:430
+#: includes/widgets/images-gallery.php:370
+msgid "Hide"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:97
+msgid "Hide author in post meta info"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:92
+msgid "Hide category in post meta info"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:107
+msgid "Hide comment in post meta info"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:102
+msgid "Hide date in post meta info"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:226
+msgid "Hide Level 0 Indicator"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:83 includes/widgets/tabs.php:82
+#: includes/widgets/nav-menu.php:128
+msgid "Horizontal"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:642 includes/widgets/nav-menu.php:870
+#: includes/widgets/nav-menu.php:1131
+msgid "Horizontal Padding"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:692
+msgid "Horizontal Slide"
+msgstr ""
+
+#: includes/widgets/countdown.php:151 includes/widgets/countdown.php:222
+#: includes/widgets/countdown.php:224 includes/widgets/countdown.php:225
+#: includes/widgets/countdown.php:426
+msgid "Hours"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:532 includes/widgets/nav-menu.php:750
+#: includes/widgets/nav-menu.php:1011 includes/widgets/google-maps.php:233
+#: includes/widgets/footer-link.php:248 includes/widgets/banner-list.php:373
+#: includes/widgets/banner-list.php:390 includes/widgets/banner.php:243
+#: includes/widgets/nav-menu-template.php:102
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:132 includes/widgets/tabs.php:132
+msgid "Hover Action"
+msgstr ""
+
+#: includes/widgets/post-featured.php:308
+#: includes/widgets/banner-creative.php:229
+#: includes/widgets/logo-showcase.php:198 includes/widgets/image-blob.php:149
+#: includes/widgets/images-gallery.php:330
+msgid "Hover Style"
+msgstr ""
+
+#: templates/woo-account/woo-account.php:70
+msgid "Howdy "
+msgstr ""
+
+#: includes/widgets/heading.php:192
+msgid "HTML Tag"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://harutheme.com"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:113 includes/widgets/button.php:114
+#: includes/widgets/timeline.php:137 includes/widgets/timeline.php:228
+#: includes/widgets/header-icon-box.php:131
+#: includes/widgets/price-table.php:160 includes/widgets/icon-list.php:120
+#: includes/widgets/team-member.php:141 includes/widgets/team-member.php:178
+#: includes/widgets/team-member.php:206 includes/widgets/team-member.php:234
+#: includes/widgets/team-member.php:262 includes/widgets/testimonial.php:179
+#: includes/widgets/romeo-slideshow.php:277
+#: includes/widgets/romeo-slideshow.php:331 includes/widgets/steps.php:153
+#: includes/widgets/logo-showcase.php:132
+#: includes/widgets/header-button.php:112 includes/widgets/icon-box.php:188
+#: includes/widgets/footer-link.php:94 includes/widgets/banner-list.php:167
+#: includes/widgets/banner-list.php:275 includes/widgets/banner.php:173
+#: includes/widgets/price-calculator.php:147
+#: includes/widgets/price-calculator.php:403 includes/widgets/social.php:149
+#: includes/widgets/contact.php:151 includes/widgets/layla-slideshow.php:277
+#: includes/widgets/layla-slideshow.php:331
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/widgets/accordion.php:156 includes/widgets/button.php:188
+#: includes/widgets/menu-tabs.php:172 includes/widgets/menu-tabs.php:181
+#: includes/widgets/menu-tabs.php:195 includes/widgets/tabs.php:172
+#: includes/widgets/tabs.php:181 includes/widgets/tabs.php:195
+#: includes/widgets/header-icon-box.php:83
+#: includes/widgets/header-icon-box.php:172
+#: includes/widgets/header-contact.php:90 includes/widgets/price-table.php:92
+#: includes/widgets/price-table.php:255 includes/widgets/search.php:155
+#: includes/widgets/search.php:184 includes/widgets/counter.php:246
+#: includes/widgets/romeo-slideshow.php:317 includes/widgets/heading.php:142
+#: includes/widgets/woo-search.php:137 includes/widgets/woo-search.php:203
+#: includes/widgets/header-button.php:181 includes/widgets/icon-box.php:92
+#: includes/widgets/icon-box.php:229 includes/widgets/social.php:135
+#: includes/widgets/contact.php:94 includes/widgets/layla-slideshow.php:317
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets/icon-box.php:61
+msgid "Icon Box"
+msgstr ""
+
+#: includes/widgets/social.php:242 includes/widgets/contact.php:229
+msgid "Icon Color"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:99
+msgid "Icon Font"
+msgstr ""
+
+#: includes/widgets/social.php:287 includes/widgets/contact.php:291
+msgid "Icon Font Size"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:106
+msgid "Icon Image"
+msgstr ""
+
+#: includes/widgets/icon-list.php:133
+msgid "Icon List"
+msgstr ""
+
+#: includes/widgets/button.php:197 includes/widgets/menu-tabs.php:102
+#: includes/widgets/tabs.php:101 includes/widgets/header-button.php:190
+msgid "Icon Position"
+msgstr ""
+
+#: includes/widgets/button.php:213 includes/widgets/header-button.php:206
+msgid "Icon Spacing"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:120
+#: includes/widgets/woo-product-top-rated.php:120
+msgid "ID"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:132
+msgid "If enabled megamenu, its submenu will be disabled."
+msgstr ""
+
+#: includes/posttypes/megamenu.php:117
+msgid "If have both Icon Font & Icon Image, Icon Image will be used."
+msgstr ""
+
+#: includes/posttypes/megamenu.php:159
+msgid ""
+"If have both width & Fullwidth, Fullwidth will be used. Please set Fullwidth "
+"is None for Vertical Menu."
+msgstr ""
+
+#: includes/widgets/accordion.php:70
+msgid "If you choose Pre Accordion you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/woo-account.php:71
+msgid "If you choose Pre Account you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/banner-creative.php:102
+msgid ""
+"If you choose Pre Banner Creative you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/banner-list.php:101
+msgid ""
+"If you choose Pre Banner List you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/banner.php:68
+msgid "If you choose Pre Banner you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/button.php:77 includes/widgets/header-button.php:78
+msgid "If you choose Pre Button you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/woo-cart.php:67
+msgid "If you choose Pre Cart you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/close-row.php:81
+msgid "If you choose Pre Close Row you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/header-contact.php:67 includes/widgets/contact.php:66
+msgid "If you choose Pre Contact you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/content-slideshow.php:98
+msgid ""
+"If you choose Pre Content Slideshow you will use Style default from our "
+"theme."
+msgstr ""
+
+#: includes/widgets/countdown.php:86
+msgid "If you choose Pre Countdown you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/counter.php:68
+msgid "If you choose Pre Counter you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/decor.php:68
+msgid "If you choose Pre Decor you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/divider.php:68
+msgid "If you choose Pre Divider you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/footer-link.php:67
+msgid ""
+"If you choose Pre Footer Link you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/footer-text.php:71
+msgid ""
+"If you choose Pre Footer Text you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/google-maps.php:91
+msgid ""
+"If you choose Pre Google Maps you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/header-icon-box.php:71
+msgid ""
+"If you choose Pre Header Icon Box you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/heading.php:67
+msgid "If you choose Pre Heading you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/icon-box.php:69
+msgid "If you choose Pre Icon Box you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/icon-list.php:69
+msgid "If you choose Pre Icon List you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/image-blob.php:79
+msgid "If you choose Pre Image Blob you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/images-gallery.php:101
+msgid ""
+"If you choose Pre Images Gallery you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/logo-showcase.php:93
+msgid ""
+"If you choose Pre Logo Showcase you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/particles.php:80
+msgid "If you choose Pre Particles you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/post-featured.php:114 includes/widgets/menu-post.php:89
+msgid "If you choose Pre Post you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/price-calculator.php:70
+msgid ""
+"If you choose Pre Price Calculator you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/price-table.php:70
+msgid ""
+"If you choose Pre Price Table you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/social.php:69
+msgid "If you choose Pre Social you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/steps.php:93
+msgid "If you choose Pre Steps you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:120 includes/widgets/tabs.php:119
+msgid "If you choose Pre Tab you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/team-member.php:91
+msgid ""
+"If you choose Pre Team Member you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/testimonial.php:91
+msgid ""
+"If you choose Pre Testimonial you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/text-animation.php:70
+msgid ""
+"If you choose Pre Text Animation you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/text-label.php:70
+msgid "If you choose Pre Text Label you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/text-list.php:69
+msgid "If you choose Pre Text List you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/text-scroll.php:87
+msgid ""
+"If you choose Pre Text Scroll you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/timeline.php:79
+msgid "If you choose Pre Timeline you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/video.php:78
+msgid "If you choose Pre Video you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/woo-wishlist.php:67
+msgid "If you choose Pre Wishlist you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/woo-product-best-seller.php:91
+msgid ""
+"If you choose Product Best Seller you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/woo-product-top-rated.php:91
+msgid ""
+"If you choose Product Top Rated you will use Style default from our theme."
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:91
+msgid ""
+"If you choose Product Top Sale you will use Style default from our theme."
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-price-filter.php:38
+msgid "If you have a lot of products, it may increase this widget performance."
+msgstr ""
+
+#: includes/term-meta/tax-meta-fields.php:24 includes/widgets/menu-tabs.php:185
+#: includes/widgets/menu-tabs.php:210 includes/widgets/tabs.php:185
+#: includes/widgets/tabs.php:210 includes/widgets/particles.php:143
+msgid "Image"
+msgstr ""
+
+#: includes/widgets/video.php:552 includes/widgets/video.php:562
+msgid "Image Overlay"
+msgstr ""
+
+#: includes/widgets/banner-creative.php:213 includes/widgets/image-blob.php:136
+#: includes/widgets/banner-list.php:360 includes/widgets/images-gallery.php:317
+msgid "Image Padding"
+msgstr ""
+
+#: includes/widgets/banner-list.php:258 includes/widgets/images-gallery.php:241
+msgid "Image Size"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:116
+msgid "Images"
+msgstr ""
+
+#: includes/widgets/content-slideshow.php:182
+#: includes/widgets/banner-creative.php:158
+#: includes/widgets/banner-list.php:180 includes/widgets/banner-list.php:288
+#: includes/widgets/images-gallery.php:165
+#: includes/widgets/images-gallery.php:257
+msgid "Images List"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:392
+#: includes/widgets/layla-slideshow.php:392
+msgid "Images Overlay Color"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:308
+msgid "Import Customize Product (Design Online Product)"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:94
+#: core/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:115
+msgid "Import Demo"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+#: core/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:503
+msgid "Imported"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:506
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-stock-status.php:164
+msgid "In stock"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-stock-status.php:35
+msgid "In Stock filter"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:108 includes/widgets/tabs.php:107
+#: includes/widgets/countdown.php:130
+msgid "Inline"
+msgstr ""
+
+#: includes/widgets/banner.php:299 includes/widgets/banner.php:323
+#: includes/widgets/banner.php:347 includes/widgets/banner.php:372
+msgid "Inline Block"
+msgstr ""
+
+#: includes/widgets/banner.php:301 includes/widgets/banner.php:325
+#: includes/widgets/banner.php:349 includes/widgets/banner.php:374
+msgid "Inline Flex"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:57
+msgid "Insert Audio URL or Embeded Code for Post Audio"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:152
+msgid "Insert Author for Post Quote."
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:344
+msgid "Insert coming soon title."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:91
+msgid "Insert Text for Post Link."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:144
+msgid "Insert Text for Post Quote."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:84
+msgid "Insert Url for Post Link."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:159
+msgid "Insert Url for Post Quote."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:30
+msgid "Insert video URL or Embeded Code for Post Video"
+msgstr ""
+
+#: includes/helper/theme-functions.php:73
+msgid "Instagram"
+msgstr ""
+
+#: includes/widgets/video.php:478
+msgid "Intro Byline"
+msgstr ""
+
+#: includes/widgets/video.php:464
+msgid "Intro Portrait"
+msgstr ""
+
+#: includes/widgets/video.php:450
+msgid "Intro Title"
+msgstr ""
+
+#: includes/widgets/icon-box.php:169
+msgid "Is Featured"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:254
+msgid "Is Header Sidebar"
+msgstr ""
+
+#: includes/widgets/header-contact.php:120
+#: includes/widgets/header-contact.php:125
+#: includes/widgets/romeo-slideshow.php:351
+#: includes/widgets/romeo-slideshow.php:356
+#: includes/widgets/footer-link.php:113 includes/widgets/footer-link.php:117
+#: includes/widgets/social.php:169 includes/widgets/social.php:174
+#: includes/widgets/contact.php:123 includes/widgets/contact.php:128
+#: includes/widgets/layla-slideshow.php:351
+#: includes/widgets/layla-slideshow.php:356
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: includes/widgets/header-contact.php:119
+#: includes/widgets/header-contact.php:124
+#: includes/widgets/romeo-slideshow.php:350
+#: includes/widgets/romeo-slideshow.php:355 includes/widgets/social.php:168
+#: includes/widgets/social.php:173 includes/widgets/contact.php:122
+#: includes/widgets/contact.php:127 includes/widgets/layla-slideshow.php:350
+#: includes/widgets/layla-slideshow.php:355
+msgid "Item icon. Click to select icon"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:132 includes/widgets/text-scroll.php:136
+#: includes/widgets/steps.php:184 includes/widgets/steps.php:192
+msgid "Item Link."
+msgstr ""
+
+#: includes/widgets/logo-showcase.php:152
+#: includes/widgets/logo-showcase.php:157 includes/widgets/banner-list.php:189
+#: includes/widgets/banner-list.php:196 includes/widgets/banner-list.php:297
+#: includes/widgets/banner-list.php:305
+msgid "Item Link. Click the edit button to change this text."
+msgstr ""
+
+#: includes/widgets/nav-menu.php:281
+msgid "Items To Show"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:306 includes/widgets/button.php:144
+#: includes/widgets/header-icon-box.php:232
+#: includes/widgets/price-table.php:315
+#: includes/widgets/episode-category.php:325 includes/widgets/heading.php:229
+#: includes/widgets/woo-ajax-order.php:361
+#: includes/widgets/header-button.php:156 includes/widgets/icon-box.php:306
+#: includes/widgets/footer-link.php:144 includes/widgets/text-animation.php:159
+#: includes/widgets/footer-text.php:162 includes/widgets/social.php:106
+#: includes/widgets/text-list.php:142
+msgid "Justified"
+msgstr ""
+
+#: includes/term-meta/tax-meta-fields.php:32
+#: includes/posttypes/megamenu.php:170
+msgid "Label"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:176
+msgid "Label Color"
+msgstr ""
+
+#: includes/widgets/price-table.php:146
+#: includes/widgets/price-calculator.php:288
+msgid "Label text."
+msgstr ""
+
+#: includes/widgets/heading.php:103
+msgid "Landing 1 (120px - Primary Font - Bold)"
+msgstr ""
+
+#: includes/widgets/heading.php:104
+msgid "Landing 2 (56px - Secondary Font - Regular)"
+msgstr ""
+
+#: includes/widgets/heading.php:105
+msgid "Landing 3 (72px - Primary Font - Shadow)"
+msgstr ""
+
+#: includes/widgets/banner-list.php:264 includes/widgets/images-gallery.php:247
+msgid "Landscape (2x1)"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:100
+#: includes/widgets/button.php:58 includes/widgets/button.php:173
+#: includes/widgets/woo-search.php:343 includes/widgets/header-button.php:59
+#: includes/widgets/social.php:231
+msgid "Large"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:371 core/libraries/theme-metabox.php:534
+#: core/libraries/theme-metabox.php:553 core/libraries/theme-metabox.php:773
+msgid "Large Container"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-sorting.php:52
+msgid "Latest"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:301 includes/widgets/text-scroll.php:158
+#: includes/widgets/woo-ajax-category.php:74
+#: includes/widgets/text-label.php:112 includes/widgets/accordion.php:267
+#: includes/widgets/button.php:266 includes/widgets/timeline.php:300
+#: includes/widgets/menu-tabs.php:78 includes/widgets/tabs.php:77
+#: includes/widgets/header-icon-box.php:151
+#: includes/widgets/header-contact.php:177 includes/widgets/price-table.php:234
+#: includes/widgets/woo-product-top-sale.php:162
+#: includes/widgets/search.php:289 includes/widgets/countdown.php:364
+#: includes/widgets/icon-list.php:167 includes/widgets/particles.php:314
+#: includes/widgets/counter.php:274 includes/widgets/nav-menu-popup.php:125
+#: includes/widgets/nav-menu-popup.php:272
+#: includes/widgets/woo-product-best-seller.php:126
+#: includes/widgets/content-slideshow.php:223
+#: includes/widgets/team-member.php:307 includes/widgets/nav-menu.php:124
+#: includes/widgets/testimonial.php:226
+#: includes/widgets/episode-category.php:92
+#: includes/widgets/romeo-slideshow.php:83
+#: includes/widgets/woo-product-top-rated.php:162
+#: includes/widgets/decor.php:167 includes/widgets/woo-product-slider.php:75
+#: includes/widgets/steps.php:215 includes/widgets/heading.php:264
+#: includes/widgets/banner-creative.php:194
+#: includes/widgets/woo-ajax-order.php:77 includes/widgets/woo-search.php:308
+#: includes/widgets/logo-showcase.php:179 includes/widgets/divider.php:239
+#: includes/widgets/icon-box.php:208 includes/widgets/google-maps.php:184
+#: includes/widgets/image-blob.php:117 includes/widgets/footer-link.php:172
+#: includes/widgets/banner-list.php:331 includes/widgets/text-animation.php:185
+#: includes/widgets/banner.php:195 includes/widgets/nav-menu-sidebar.php:98
+#: includes/widgets/nav-menu-sidebar.php:267
+#: includes/widgets/nav-menu-template.php:98
+#: includes/widgets/footer-text.php:105
+#: includes/widgets/price-calculator.php:469 includes/widgets/social.php:196
+#: includes/widgets/images-gallery.php:298 includes/widgets/contact.php:191
+#: includes/widgets/text-list.php:168 includes/widgets/layla-slideshow.php:83
+msgid "Layout"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:194
+#: includes/widgets/woo-wishlist.php:120 includes/widgets/close-row.php:147
+#: includes/widgets/woo-account.php:222
+#: includes/widgets/episode-category.php:212
+#: includes/widgets/post-featured.php:259
+#: includes/widgets/woo-product-slider.php:194
+#: includes/widgets/woo-cart.php:133 includes/widgets/woo-ajax-order.php:270
+#: includes/widgets/menu-post.php:231
+msgid "Layout Options"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:349
+msgid "Layout Style"
+msgstr ""
+
+#: includes/widgets/video.php:400
+msgid "Lazy Load"
+msgstr ""
+
+#: includes/widgets/search.php:118
+msgid "Leave empty if search all Post Types."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:727 includes/widgets/logo.php:148
+#: includes/widgets/woo-ajax-category.php:294 includes/widgets/button.php:132
+#: includes/widgets/header-icon-box.php:220
+#: includes/widgets/header-contact.php:140 includes/widgets/price-table.php:303
+#: includes/widgets/search.php:236 includes/widgets/countdown.php:274
+#: includes/widgets/particles.php:293 includes/widgets/woo-wishlist.php:87
+#: includes/widgets/counter.php:210 includes/widgets/nav-menu-popup.php:234
+#: includes/widgets/close-row.php:114 includes/widgets/woo-account.php:93
+#: includes/widgets/logo-footer.php:149 includes/widgets/nav-menu.php:143
+#: includes/widgets/nav-menu.php:449 includes/widgets/episode-category.php:313
+#: includes/widgets/woo-cart.php:100 includes/widgets/heading.php:217
+#: includes/widgets/woo-ajax-order.php:349 includes/widgets/woo-search.php:255
+#: includes/widgets/header-button.php:144 includes/widgets/icon-box.php:294
+#: includes/widgets/footer-link.php:132 includes/widgets/text-animation.php:147
+#: includes/widgets/nav-menu-sidebar.php:119
+#: includes/widgets/nav-menu-sidebar.php:229
+#: includes/widgets/footer-text.php:150 includes/widgets/social.php:94
+#: includes/widgets/text-list.php:130
+msgid "Left"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:384
+msgid "Left Sidebar"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:466
+msgid "Light"
+msgstr ""
+
+#: includes/widgets/video.php:616 includes/widgets/video.php:740
+msgid "Lightbox"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:111 includes/widgets/button.php:109
+#: includes/widgets/timeline.php:135 includes/widgets/timeline.php:226
+#: includes/widgets/header-icon-box.php:126
+#: includes/widgets/price-table.php:155 includes/widgets/icon-list.php:118
+#: includes/widgets/team-member.php:139 includes/widgets/testimonial.php:177
+#: includes/widgets/romeo-slideshow.php:329 includes/widgets/video.php:124
+#: includes/widgets/video.php:146 includes/widgets/video.php:167
+#: includes/widgets/steps.php:151 includes/widgets/heading.php:158
+#: includes/widgets/logo-showcase.php:130
+#: includes/widgets/header-button.php:107 includes/widgets/icon-box.php:183
+#: includes/widgets/footer-link.php:92 includes/widgets/banner-list.php:165
+#: includes/widgets/banner-list.php:273 includes/widgets/banner.php:168
+#: includes/widgets/price-calculator.php:142
+#: includes/widgets/price-calculator.php:398 includes/widgets/social.php:147
+#: includes/widgets/layla-slideshow.php:329
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/footer-link.php:127
+msgid "Link Align"
+msgstr ""
+
+#: includes/widgets/steps.php:175 includes/widgets/logo-showcase.php:145
+#: includes/widgets/footer-link.php:107 includes/widgets/social.php:162
+msgid "Link List"
+msgstr ""
+
+#: includes/widgets/timeline.php:240 includes/widgets/price-table.php:168
+#: includes/widgets/price-calculator.php:157
+#: includes/widgets/price-calculator.php:410
+msgid "Link Text"
+msgstr ""
+
+#: includes/widgets/price-table.php:171
+#: includes/widgets/price-calculator.php:160
+#: includes/widgets/price-calculator.php:413
+msgid "Link text"
+msgstr ""
+
+#: includes/helper/theme-functions.php:65
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:90
+msgid "List"
+msgstr ""
+
+#: includes/widgets/steps.php:97
+msgid "List (Zigzag)"
+msgstr ""
+
+#: includes/widgets/steps.php:98
+msgid "List 2 (Active Step)"
+msgstr ""
+
+#: includes/widgets/steps.php:99
+msgid "List 3 (Row Wrap)"
+msgstr ""
+
+#: includes/widgets/timeline.php:114 includes/widgets/timeline.php:219
+#: includes/widgets/content-slideshow.php:134
+#: includes/widgets/testimonial.php:142 includes/widgets/steps.php:129
+#: includes/widgets/banner-creative.php:138
+#: includes/widgets/banner-list.php:141 includes/widgets/banner-list.php:233
+#: includes/widgets/images-gallery.php:140
+#: includes/widgets/images-gallery.php:216
+msgid "List Description"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:371
+msgid "List Desription."
+msgstr ""
+
+#: includes/widgets/menu-post.php:93
+msgid "List Small"
+msgstr ""
+
+#: includes/widgets/icon-list.php:93 includes/widgets/content-slideshow.php:122
+#: includes/widgets/team-member.php:118 includes/widgets/testimonial.php:123
+#: includes/widgets/steps.php:119 includes/widgets/banner-creative.php:126
+#: includes/widgets/banner-list.php:129 includes/widgets/banner-list.php:221
+#: includes/widgets/images-gallery.php:128
+#: includes/widgets/images-gallery.php:204 includes/widgets/text-list.php:94
+msgid "List Sub Title"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:104 includes/widgets/timeline.php:105
+#: includes/widgets/timeline.php:210 includes/widgets/menu-tabs.php:156
+#: includes/widgets/tabs.php:156 includes/widgets/header-contact.php:83
+#: includes/widgets/price-table.php:182 includes/widgets/icon-list.php:84
+#: includes/widgets/content-slideshow.php:113
+#: includes/widgets/team-member.php:109 includes/widgets/testimonial.php:114
+#: includes/widgets/romeo-slideshow.php:310 includes/widgets/steps.php:110
+#: includes/widgets/banner-creative.php:117
+#: includes/widgets/logo-showcase.php:109 includes/widgets/footer-link.php:85
+#: includes/widgets/banner-list.php:120 includes/widgets/banner-list.php:212
+#: includes/widgets/price-calculator.php:100
+#: includes/widgets/price-calculator.php:217
+#: includes/widgets/price-calculator.php:303
+#: includes/widgets/price-calculator.php:361 includes/widgets/social.php:128
+#: includes/widgets/images-gallery.php:119
+#: includes/widgets/images-gallery.php:195 includes/widgets/contact.php:87
+#: includes/widgets/text-list.php:85 includes/widgets/layla-slideshow.php:310
+msgid "List Title"
+msgstr ""
+
+#: includes/classes/class-haru-ajax-helper.php:74
+msgid "Loading..."
+msgstr ""
+
+#: includes/widgets/google-maps.php:106
+msgid "Location"
+msgstr ""
+
+#: includes/widgets/woo-account.php:116 includes/widgets/woo-account.php:117
+msgid "Login"
+msgstr ""
+
+#: includes/widgets/woo-account.php:162
+msgid "Login Page"
+msgstr ""
+
+#: includes/widgets/woo-account.php:114
+msgid "Login Text"
+msgstr ""
+
+#: includes/widgets/video.php:372
+msgid "Logo"
+msgstr ""
+
+#: includes/widgets/logo.php:140 includes/widgets/logo-footer.php:141
+msgid "Logo Align"
+msgstr ""
+
+#: includes/widgets/logo.php:122 includes/widgets/logo-footer.php:123
+msgid "Logo Max Height (px)"
+msgstr ""
+
+#: includes/widgets/logo.php:58 includes/widgets/logo-footer.php:59
+msgid "Logo Settings"
+msgstr ""
+
+#: templates/woo-account/woo-account.php:88
+msgid "Logout"
+msgstr ""
+
+#: includes/widgets/woo-account.php:177
+msgid "Logout Page"
+msgstr ""
+
+#: includes/widgets/google-maps.php:102
+msgid "London Eye, London, United Kingdom"
+msgstr ""
+
+#: includes/widgets/video.php:318
+msgid "Loop"
+msgstr ""
+
+#: includes/widgets/accordion.php:131 includes/widgets/accordion.php:136
+#: includes/widgets/header-icon-box.php:115 includes/widgets/icon-box.php:144
+#: includes/widgets/footer-text.php:86
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:248 includes/widgets/menu-tabs.php:271
+#: includes/widgets/menu-tabs.php:281 includes/widgets/tabs.php:248
+#: includes/widgets/tabs.php:271 includes/widgets/tabs.php:281
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, neque qui "
+"velit. Magni dolorum quidem ipsam eligendi, totam, facilis laudantium cum "
+"accusamus ullam voluptatibus commodi numquam, error, est. Ea, consequatur."
+msgstr ""
+
+#: includes/widgets/nav-menu.php:491
+msgid "Main Menu"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:352
+msgid "Maintenance Background"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:321
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:329
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:341
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:345
+msgid "Maintenance Mode"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:380
+msgid "Maintenance social profiles"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:343
+msgid "Maintenance title"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:59
+#: includes/widgets/episode-category.php:67
+#: includes/widgets/post-featured.php:98
+#: includes/widgets/woo-product-slider.php:60
+#: includes/widgets/woo-ajax-order.php:62 includes/widgets/menu-post.php:73
+msgid "Manual Selection"
+msgstr ""
+
+#: includes/widgets/google-maps.php:205
+msgid "Map"
+msgstr ""
+
+#: includes/widgets/contact.php:166
+msgid "Map Button Text"
+msgstr ""
+
+#: includes/widgets/contact.php:149
+msgid "Map Link"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:79
+#: includes/widgets/episode-category.php:97
+msgid "Masonry"
+msgstr ""
+
+#: includes/widgets/divider.php:186
+msgid "Max Height"
+msgstr ""
+
+#: includes/widgets/button.php:57 includes/widgets/button.php:174
+#: includes/widgets/countdown.php:388 includes/widgets/header-button.php:58
+#: includes/widgets/banner.php:231
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:141
+#: includes/widgets/nav-menu-sidebar.php:136
+msgid "Mega Menu Templates"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:44
+msgid "MegaMenu"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:43
+msgid "MegaMenu Builders"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:493 includes/widgets/nav-menu-popup.php:140
+#: includes/widgets/nav-menu-popup.php:154
+#: includes/widgets/nav-menu-popup.php:405 includes/widgets/nav-menu.php:100
+#: includes/widgets/nav-menu.php:1374 includes/widgets/nav-menu.php:1377
+#: includes/widgets/nav-menu-sidebar.php:135
+#: includes/widgets/nav-menu-sidebar.php:149
+#: includes/widgets/nav-menu-sidebar.php:400
+#: includes/widgets/nav-menu-template.php:116
+msgid "Menu"
+msgstr ""
+
+#: includes/widgets/heading.php:75
+msgid "Menu 1"
+msgstr ""
+
+#: includes/widgets/heading.php:76
+msgid "Menu 2 (MegaMenu Column)"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:137
+#: includes/widgets/nav-menu-sidebar.php:132
+msgid "Menu Content"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:345
+msgid "Menu Mobile"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:126
+#: includes/widgets/woo-product-top-rated.php:126
+msgid "Menu order"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:117 includes/widgets/nav-menu.php:89
+#: includes/widgets/nav-menu-sidebar.php:90
+#: includes/widgets/nav-menu-template.php:90
+msgid "Menu Settings"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:366
+#: includes/widgets/nav-menu-sidebar.php:361
+msgid "Menu Toggle"
+msgstr ""
+
+#: includes/widgets/countdown.php:321
+msgid "Message"
+msgstr ""
+
+#: includes/widgets/divider.php:159
+msgid "Min Height"
+msgstr ""
+
+#: includes/widgets/search.php:101 includes/widgets/woo-search.php:101
+msgid "Minimal"
+msgstr ""
+
+#: includes/widgets/countdown.php:162 includes/widgets/countdown.php:237
+#: includes/widgets/countdown.php:239 includes/widgets/countdown.php:240
+#: includes/widgets/countdown.php:427
+msgid "Minutes"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:271
+msgid "Mobile"
+msgstr ""
+
+#. %d: Breakpoint number.
+#: includes/widgets/nav-menu.php:376
+#, php-format
+msgid "Mobile (< %dpx)"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:332
+msgid "Mobile Dropdown"
+msgstr ""
+
+#: includes/widgets/testimonial.php:321
+msgid "Mobile Settings"
+msgstr ""
+
+#: includes/widgets/video.php:359
+msgid "Modest Branding"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:123
+#: includes/widgets/woo-product-top-rated.php:123
+msgid "Modified"
+msgstr ""
+
+#: includes/widgets/countdown.php:423
+msgid "Months"
+msgstr ""
+
+#: includes/widgets/video.php:309
+msgid "Mute"
+msgstr ""
+
+#: templates/woo-account/woo-account.php:74
+msgid "My Account"
+msgstr ""
+
+#: templates/woo-account/woo-account.php:85
+msgid "My Orders"
+msgstr ""
+
+#: templates/woo-account/woo-account.php:81
+msgid "My Wishlist"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:241
+msgid "Nav Nowrap"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:94
+msgid "New"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:110
+msgid "Newest"
+msgstr ""
+
+#: includes/classes/class-haru-ajax-helper.php:41
+msgid "Next"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:260 includes/widgets/menu-tabs.php:135
+#: includes/widgets/tabs.php:135
+msgid "No"
+msgstr ""
+
+#: includes/posttypes/content.php:43
+msgid "No Content items found"
+msgstr ""
+
+#: includes/posttypes/content.php:44
+msgid "No Content items found in trash"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:128
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: includes/posttypes/footer.php:43
+msgid "No Footer items found"
+msgstr ""
+
+#: includes/posttypes/footer.php:44
+msgid "No Footer items found in trash"
+msgstr ""
+
+#: core/redux-extensions/extensions/footer/footer/field_footer.php:124
+msgid "No Footer were found."
+msgstr ""
+
+#: includes/posttypes/header.php:42
+msgid "No Header items found"
+msgstr ""
+
+#: includes/posttypes/header.php:43
+msgid "No Header items found in trash"
+msgstr ""
+
+#: core/redux-extensions/extensions/header/header/field_header.php:124
+msgid "No Header were found."
+msgstr ""
+
+#: templates/woo-product-top-sale/woo-product-top-sale.php:48
+#: templates/woo-product-top-rated/woo-product-top-rated.php:46
+#: templates/woo-product-best-seller/woo-product-best-seller.php:40
+msgid "No item found"
+msgstr ""
+
+#: core/redux-extensions/extensions/menu/menu/field_menu.php:118
+#: core/redux-extensions/extensions/product_attribute/product_attribute/field_product_attribute.php:118
+msgid "No items of this type were found."
+msgstr ""
+
+#: includes/posttypes/megamenu.php:52
+msgid "No MegaMenu items found"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:53
+msgid "No MegaMenu items found in trash"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:251
+#: includes/widgets/episode-category.php:270
+#: includes/widgets/post-featured.php:299
+#: includes/widgets/woo-product-slider.php:230
+#: includes/widgets/banner-creative.php:217
+#: includes/widgets/woo-ajax-order.php:306 includes/widgets/image-blob.php:140
+#: includes/widgets/banner-list.php:364 includes/widgets/images-gallery.php:321
+msgid "No Padding"
+msgstr ""
+
+#: templates/menu-post/menu-post.php:37
+msgid "No post found"
+msgstr ""
+
+#: templates/woo-product-slider/woo-product-slider.php:53
+#: includes/classes/product-ajax-actions.php:50
+#: includes/classes/product-ajax-actions.php:109
+#: includes/classes/product-ajax-actions.php:208
+#: includes/classes/product-ajax-actions.php:350
+msgid "No product found"
+msgstr ""
+
+#: templates/woo-ajax-category/woo-ajax-category.php:86
+msgid "No product found. Please set Product Categories."
+msgstr ""
+
+#: templates/woo-ajax-order/woo-ajax-order.php:141
+#: templates/woo-ajax-order/woo-ajax-order.php:164
+#: includes/classes/product-ajax-actions.php:231
+msgid "No product found. Please set Product Order."
+msgstr ""
+
+#: includes/classes/product-ajax-actions.php:451
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:383
+msgid "No Sidebar"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:745
+msgid "No Sticky"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:513
+msgid "No Title"
+msgstr ""
+
+#: templates/post-featured/post-featured.php:57
+msgid "No video found"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:327
+#: includes/widgets/menu-tabs.php:177 includes/widgets/tabs.php:177
+#: includes/widgets/particles.php:286 includes/widgets/nav-menu.php:173
+#: includes/widgets/nav-menu.php:213 includes/widgets/nav-menu.php:379
+#: includes/widgets/nav-menu.php:427 includes/widgets/episode-category.php:346
+#: includes/widgets/post-featured.php:313 includes/widgets/heading.php:71
+#: includes/widgets/banner-creative.php:234
+#: includes/widgets/woo-ajax-order.php:426
+#: includes/widgets/logo-showcase.php:203 includes/widgets/image-blob.php:154
+#: includes/widgets/footer-link.php:71 includes/widgets/banner.php:247
+#: includes/widgets/banner.php:297 includes/widgets/banner.php:321
+#: includes/widgets/banner.php:345 includes/widgets/banner.php:370
+#: includes/widgets/footer-text.php:75 includes/widgets/social.php:73
+#: includes/widgets/images-gallery.php:335 includes/posttypes/megamenu.php:143
+#: core/redux-extensions/extensions/product_attribute/product_attribute/field_product_attribute.php:97
+msgid "None"
+msgstr ""
+
+#: includes/widgets/google-maps.php:95
+msgid "None (Default)"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:99
+#: includes/widgets/button.php:175 includes/widgets/nav-menu.php:510
+#: includes/widgets/nav-menu.php:716 includes/widgets/nav-menu.php:977
+#: includes/widgets/google-maps.php:217 includes/widgets/footer-link.php:222
+msgid "Normal"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:58
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:224
+#: includes/widgets/woo-product-best-seller.php:188
+#: includes/widgets/team-member.php:399 includes/widgets/testimonial.php:384
+#: includes/widgets/woo-product-top-rated.php:224
+#: includes/widgets/woo-product-slider.php:282 includes/widgets/steps.php:321
+#: includes/widgets/woo-ajax-order.php:482
+#: includes/widgets/logo-showcase.php:303
+msgid "Number of Rows"
+msgstr ""
+
+#: includes/widgets/counter.php:107
+msgid "Number Prefix"
+msgstr ""
+
+#: includes/widgets/counter.php:120
+msgid "Number Suffix"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:110
+#: includes/wp-widgets/haru-woo-layered-nav.php:119
+msgid "OFF"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:454 core/libraries/theme-metabox.php:480
+#: core/libraries/theme-metabox.php:520 core/libraries/theme-metabox.php:618
+#: core/libraries/theme-metabox.php:636 includes/widgets/video.php:619
+msgid "Off"
+msgstr ""
+
+#: includes/widgets/post-featured.php:213 includes/widgets/menu-post.php:185
+msgid "Offset"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:109
+#: includes/wp-widgets/haru-woo-layered-nav.php:118
+msgid "ON"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:453 core/libraries/theme-metabox.php:479
+#: core/libraries/theme-metabox.php:519 core/libraries/theme-metabox.php:617
+#: core/libraries/theme-metabox.php:635 includes/widgets/video.php:620
+msgid "On"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-stock-status.php:180
+msgid "On back order"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-stock-status.php:45
+msgid "On Back Order filter"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:705
+msgid "On desktop, this will affect the submenu."
+msgstr ""
+
+#: includes/widgets/nav-menu.php:966
+msgid ""
+"On desktop, this will affect the submenu. On mobile, this will affect the "
+"entire menu."
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-stock-status.php:156
+msgid "On sale"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-stock-status.php:50
+msgid "On Sale filter"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:363
+msgid "Online time"
+msgstr ""
+
+#: includes/widgets/decor.php:140 includes/widgets/logo-showcase.php:204
+msgid "Opacity"
+msgstr ""
+
+#: includes/widgets/logo-showcase.php:205
+msgid "Opacity 2"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:286
+msgid "Option Description"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:330
+#: includes/widgets/price-calculator.php:431
+msgid "Option Price List"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:271
+msgid "Option Title"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:82
+msgid "OR"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:168
+#: includes/widgets/woo-product-top-sale.php:135
+#: includes/widgets/episode-category.php:186
+#: includes/widgets/post-featured.php:233
+#: includes/widgets/romeo-slideshow.php:139
+#: includes/widgets/woo-product-top-rated.php:135
+#: includes/widgets/woo-product-slider.php:168
+#: includes/widgets/menu-post.php:205 includes/widgets/layla-slideshow.php:139
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:157
+#: includes/widgets/woo-product-top-sale.php:114
+#: includes/widgets/episode-category.php:175
+#: includes/widgets/post-featured.php:222
+#: includes/widgets/romeo-slideshow.php:126
+#: includes/widgets/woo-product-top-rated.php:114
+#: includes/widgets/woo-product-slider.php:157
+#: includes/widgets/menu-post.php:194 includes/widgets/layla-slideshow.php:126
+msgid "Order By"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:63
+msgid "Order by"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:90
+msgid "Order Tabs"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-stock-status.php:172
+msgid "Out of stock"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-stock-status.php:40
+msgid "Out Of Stock filter"
+msgstr ""
+
+#: includes/widgets/post-featured.php:314
+#: includes/widgets/banner-creative.php:235 includes/widgets/image-blob.php:155
+#: includes/widgets/banner.php:249 includes/widgets/images-gallery.php:336
+msgid "Overlay"
+msgstr ""
+
+#: includes/widgets/post-featured.php:316
+#: includes/widgets/banner-creative.php:237 includes/widgets/image-blob.php:157
+#: includes/widgets/images-gallery.php:338
+msgid "Overlay + Scale"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:175
+msgid "Overline"
+msgstr ""
+
+#: includes/widgets/search.php:110
+msgid "Page"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:363
+msgid "Page Layout"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:294
+msgid "Page Metabox"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:377
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/widgets/particles.php:72
+msgid "Particles"
+msgstr ""
+
+#: includes/widgets/text-animation.php:130
+msgid "Period (ms)"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:201
+#: includes/widgets/layla-slideshow.php:201
+msgid "Permalink"
+msgstr ""
+
+#: haru-teespace.php:264
+msgid "PHP"
+msgstr ""
+
+#: includes/helper/theme-functions.php:61
+msgid "Pinterest"
+msgstr ""
+
+#: includes/widgets/search.php:129 includes/widgets/woo-search.php:111
+msgid "Placeholder"
+msgstr ""
+
+#: includes/widgets/video.php:603 includes/widgets/video.php:669
+msgid "Play Icon"
+msgstr ""
+
+#: includes/widgets/video.php:297
+msgid "Play On Mobile"
+msgstr ""
+
+#: includes/widgets/video.php:1048
+msgid "Play Video"
+msgstr ""
+
+#: includes/widgets/video.php:330
+msgid "Player Controls"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:103
+msgid ""
+"Please click <a href=\"https://harutheme.com/forums/topic/list-of-font-icons-"
+"use-in-each-theme-from-harutheme/\" target=\"_blank\"> <b>here</b></a> to "
+"see the list of icons."
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:382
+msgid ""
+"Please insert code with format: <li><a href=\"#\"><i class=\"fa fa-heart\">"
+"</i></a></li>"
+msgstr ""
+
+#: includes/widgets/header-contact.php:105 includes/widgets/contact.php:108
+msgid "Please insert content"
+msgstr ""
+
+#: includes/widgets/button.php:246 includes/widgets/header-button.php:239
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore chars "
+"without spaces."
+msgstr ""
+
+#: includes/widgets/text-scroll.php:226
+#: includes/widgets/woo-ajax-category.php:357
+#: includes/widgets/episode-category.php:376
+#: includes/widgets/post-featured.php:474
+#: includes/widgets/romeo-slideshow.php:491
+#: includes/widgets/woo-product-slider.php:377
+#: includes/widgets/woo-ajax-order.php:577 includes/widgets/menu-post.php:266
+#: includes/widgets/layla-slideshow.php:490
+msgid ""
+"Please note layout or action may doesn't works on Preview Mode or Editor "
+"Mode but works fine on Frontend Mode."
+msgstr ""
+
+#: includes/widgets/close-row.php:70
+msgid ""
+"Please note this widget use to close Row on the Header. Example: Top Bar."
+msgstr ""
+
+#: includes/widgets/woo-search.php:369
+msgid "Please type at least 3 characters to search..."
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:115
+#: core/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Please Wait..."
+msgstr ""
+
+#: includes/widgets/counter.php:126 includes/widgets/nav-menu.php:217
+msgid "Plus"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:169
+msgid "Pointer"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:555 includes/widgets/nav-menu.php:592
+msgid "Pointer Color"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:619
+msgid "Pointer Width"
+msgstr ""
+
+#: includes/widgets/particles.php:141
+msgid "Polygon"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:67
+msgid "Popular"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-sorting.php:50
+msgid "Popularity"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:129
+msgid "Popup"
+msgstr ""
+
+#: includes/widgets/banner-list.php:265 includes/widgets/images-gallery.php:248
+msgid "Portrait (1x2)"
+msgstr ""
+
+#: includes/widgets/search.php:109
+msgid "Post"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:47
+msgid "Post Format Audio Metabox"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:107
+msgid "Post Format Gallery Metabox"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:74
+msgid "Post Format Link Metabox"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:134
+msgid "Post Format Quote Metabox"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:20
+msgid "Post Format Video Metabox"
+msgstr ""
+
+#: includes/widgets/post-featured.php:295
+msgid "Post Padding"
+msgstr ""
+
+#: includes/widgets/post-featured.php:278
+msgid "Post Style"
+msgstr ""
+
+#: includes/widgets/search.php:117
+msgid "Post Type"
+msgstr ""
+
+#: includes/widgets/video.php:517
+msgid "Poster"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:39
+#: includes/widgets/post-featured.php:97 includes/widgets/menu-post.php:72
+msgid "Posts"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:147
+#: includes/widgets/episode-category.php:165
+#: includes/widgets/post-featured.php:204
+#: includes/widgets/woo-product-slider.php:147
+#: includes/widgets/woo-ajax-order.php:223 includes/widgets/menu-post.php:176
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/widgets/accordion.php:69
+msgid "Pre Accordion"
+msgstr ""
+
+#: includes/widgets/woo-account.php:70
+msgid "Pre Account"
+msgstr ""
+
+#: includes/widgets/woo-account.php:75
+msgid "Pre Account 1 (Icon)"
+msgstr ""
+
+#: includes/widgets/woo-account.php:76
+msgid "Pre Account 2 (Button Small)"
+msgstr ""
+
+#: includes/widgets/woo-account.php:77
+msgid "Pre Account 3 (Button)"
+msgstr ""
+
+#: includes/widgets/banner.php:67
+msgid "Pre Banner"
+msgstr ""
+
+#: includes/widgets/banner.php:73
+msgid "Pre Banner 1"
+msgstr ""
+
+#: includes/widgets/banner.php:82
+msgid "Pre Banner 10"
+msgstr ""
+
+#: includes/widgets/banner.php:83
+msgid "Pre Banner 11"
+msgstr ""
+
+#: includes/widgets/banner.php:84
+msgid "Pre Banner 12"
+msgstr ""
+
+#: includes/widgets/banner.php:85
+msgid "Pre Banner 13"
+msgstr ""
+
+#: includes/widgets/banner.php:86
+msgid "Pre Banner 14"
+msgstr ""
+
+#: includes/widgets/banner.php:87
+msgid "Pre Banner 15"
+msgstr ""
+
+#: includes/widgets/banner.php:88
+msgid "Pre Banner 16"
+msgstr ""
+
+#: includes/widgets/banner.php:89
+msgid "Pre Banner 17"
+msgstr ""
+
+#: includes/widgets/banner.php:90
+msgid "Pre Banner 18"
+msgstr ""
+
+#: includes/widgets/banner.php:91
+msgid "Pre Banner 19"
+msgstr ""
+
+#: includes/widgets/banner.php:74
+msgid "Pre Banner 2"
+msgstr ""
+
+#: includes/widgets/banner.php:75
+msgid "Pre Banner 3"
+msgstr ""
+
+#: includes/widgets/banner.php:76
+msgid "Pre Banner 4"
+msgstr ""
+
+#: includes/widgets/banner.php:77
+msgid "Pre Banner 5"
+msgstr ""
+
+#: includes/widgets/banner.php:78
+msgid "Pre Banner 6"
+msgstr ""
+
+#: includes/widgets/banner.php:79
+msgid "Pre Banner 7"
+msgstr ""
+
+#: includes/widgets/banner.php:80
+msgid "Pre Banner 8"
+msgstr ""
+
+#: includes/widgets/banner.php:81
+msgid "Pre Banner 9"
+msgstr ""
+
+#: includes/widgets/banner-creative.php:101
+msgid "Pre Banner Creative"
+msgstr ""
+
+#: includes/widgets/banner.php:72
+msgid "Pre Banner Default"
+msgstr ""
+
+#: includes/widgets/banner-list.php:100
+msgid "Pre Banner List"
+msgstr ""
+
+#: includes/widgets/button.php:76 includes/widgets/header-button.php:77
+msgid "Pre Button"
+msgstr ""
+
+#: includes/widgets/header-button.php:82
+msgid "Pre Button 1 (Primary Color - Large)"
+msgstr ""
+
+#: includes/widgets/button.php:81
+msgid "Pre Button 1 (Primary Color - Medium)"
+msgstr ""
+
+#: includes/widgets/header-button.php:83
+msgid "Pre Button 2 (Black Color - Large)"
+msgstr ""
+
+#: includes/widgets/button.php:82
+msgid "Pre Button 2 (Black Color - Medium)"
+msgstr ""
+
+#: includes/widgets/button.php:83
+msgid "Pre Button 3 (Outline - Medium)"
+msgstr ""
+
+#: includes/widgets/header-button.php:84
+msgid "Pre Button 3 (Outline Border - Large)"
+msgstr ""
+
+#: includes/widgets/button.php:84
+msgid "Pre Button 4 (Text - Black)"
+msgstr ""
+
+#: includes/widgets/header-button.php:85
+msgid "Pre Button 4 (White Color - Top Bar)"
+msgstr ""
+
+#: includes/widgets/header-button.php:86
+msgid "Pre Button 5 (Gradient Color - Large)"
+msgstr ""
+
+#: includes/widgets/button.php:85
+msgid "Pre Button 5 (Primary Color - Large)"
+msgstr ""
+
+#: includes/widgets/button.php:86
+msgid "Pre Button 6 (White Color - Medium)"
+msgstr ""
+
+#: includes/widgets/button.php:87
+msgid "Pre Button 7 (Text - Black - Underline)"
+msgstr ""
+
+#: includes/widgets/button.php:88
+msgid "Pre Button 8 (Text - Primary Color)"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:74
+msgid "Pre Calculator 1"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:75
+msgid "Pre Calculator 2"
+msgstr ""
+
+#: includes/widgets/woo-cart.php:66
+msgid "Pre Cart"
+msgstr ""
+
+#: includes/widgets/woo-cart.php:71
+msgid "Pre Cart 1"
+msgstr ""
+
+#: includes/widgets/woo-cart.php:72
+msgid "Pre Cart 2"
+msgstr ""
+
+#: includes/widgets/close-row.php:80
+msgid "Pre Close Row"
+msgstr ""
+
+#: includes/widgets/close-row.php:85
+msgid "Pre Close Row 1"
+msgstr ""
+
+#: includes/widgets/close-row.php:86
+msgid "Pre Close Row 2"
+msgstr ""
+
+#: includes/widgets/header-contact.php:66 includes/widgets/contact.php:65
+msgid "Pre Contact"
+msgstr ""
+
+#: includes/widgets/header-contact.php:71 includes/widgets/contact.php:71
+msgid "Pre Contact 1"
+msgstr ""
+
+#: includes/widgets/header-contact.php:72 includes/widgets/contact.php:72
+msgid "Pre Contact 2"
+msgstr ""
+
+#: includes/widgets/contact.php:73
+msgid "Pre Contact 3"
+msgstr ""
+
+#: includes/widgets/contact.php:74
+msgid "Pre Contact 4"
+msgstr ""
+
+#: includes/widgets/contact.php:75
+msgid "Pre Contact 5"
+msgstr ""
+
+#: includes/widgets/contact.php:76
+msgid "Pre Contact 6"
+msgstr ""
+
+#: includes/widgets/content-slideshow.php:97
+msgid "Pre Content Slideshow"
+msgstr ""
+
+#: includes/widgets/countdown.php:85
+msgid "Pre Countdown"
+msgstr ""
+
+#: includes/widgets/counter.php:67
+msgid "Pre Counter"
+msgstr ""
+
+#: includes/widgets/decor.php:67
+msgid "Pre Decor"
+msgstr ""
+
+#: includes/widgets/heading.php:84
+msgid "Pre Description 1 (20px - Primary Font - Normal)"
+msgstr ""
+
+#: includes/widgets/heading.php:85
+msgid "Pre Description 2 (18px - Primary Font - Normal)"
+msgstr ""
+
+#: includes/widgets/heading.php:86
+msgid "Pre Description 3 (16px - Primary Font - Normal)"
+msgstr ""
+
+#: includes/widgets/divider.php:67
+msgid "Pre Divider"
+msgstr ""
+
+#: includes/widgets/heading.php:77
+msgid "Pre Footer 1 (18px)"
+msgstr ""
+
+#: includes/widgets/heading.php:78
+msgid "Pre Footer 2"
+msgstr ""
+
+#: includes/widgets/heading.php:79
+msgid "Pre Footer 3"
+msgstr ""
+
+#: includes/widgets/heading.php:81
+msgid "Pre Footer Copyright 1"
+msgstr ""
+
+#: includes/widgets/heading.php:82
+msgid "Pre Footer Copyright 2"
+msgstr ""
+
+#: includes/widgets/footer-link.php:66
+msgid "Pre Footer Link"
+msgstr ""
+
+#: includes/widgets/footer-link.php:72
+msgid "Pre Footer Link 1 (15px)"
+msgstr ""
+
+#: includes/widgets/footer-link.php:73
+msgid "Pre Footer Link 2"
+msgstr ""
+
+#: includes/widgets/footer-link.php:74
+msgid "Pre Footer Link 3"
+msgstr ""
+
+#: includes/widgets/footer-text.php:70
+msgid "Pre Footer Text"
+msgstr ""
+
+#: includes/widgets/footer-text.php:76
+msgid "Pre Footer Text 1"
+msgstr ""
+
+#: includes/widgets/heading.php:80
+msgid "Pre Footer Text 1 (15px)"
+msgstr ""
+
+#: includes/widgets/google-maps.php:90
+msgid "Pre Google Maps"
+msgstr ""
+
+#: includes/widgets/google-maps.php:96
+msgid "Pre Google Maps 1 (Filter Gray)"
+msgstr ""
+
+#: includes/widgets/google-maps.php:97
+msgid "Pre Google Maps 2 (Filter Pink)"
+msgstr ""
+
+#: includes/widgets/header-icon-box.php:70
+msgid "Pre Header Icon Box"
+msgstr ""
+
+#: includes/widgets/header-icon-box.php:75
+msgid "Pre Header Icon Box 1"
+msgstr ""
+
+#: includes/widgets/heading.php:66
+msgid "Pre Heading"
+msgstr ""
+
+#: includes/widgets/heading.php:87
+msgid "Pre Heading 1 (64px - Primary Font - Bold)"
+msgstr ""
+
+#: includes/widgets/heading.php:88
+msgid "Pre Heading 2 (48px - Primary Font - Bold)"
+msgstr ""
+
+#: includes/widgets/heading.php:89
+msgid "Pre Heading 3 (24px - Primary Font - Bold)"
+msgstr ""
+
+#: includes/widgets/heading.php:90
+msgid "Pre Heading 4 (72px - Primary Font - Bold)"
+msgstr ""
+
+#: includes/widgets/heading.php:91
+msgid "Pre Heading 5 (40px - Primary Font - Bold)"
+msgstr ""
+
+#: includes/widgets/heading.php:92
+msgid "Pre Heading 6 (56px - Secondary Font - Normal)"
+msgstr ""
+
+#: includes/widgets/heading.php:93
+msgid "Pre Heading 7 (32px - Primary Font - Bold)"
+msgstr ""
+
+#: includes/widgets/heading.php:94
+msgid "Pre Heading 8 (20px - Primary Font - Bold)"
+msgstr ""
+
+#: includes/widgets/heading.php:95
+msgid "Pre Heading 9 (40px - Primary Font - Bold - 1.3)"
+msgstr ""
+
+#: includes/widgets/icon-box.php:68
+msgid "Pre Icon Box"
+msgstr ""
+
+#: includes/widgets/icon-box.php:73
+msgid "Pre Icon Box 1"
+msgstr ""
+
+#: includes/widgets/icon-box.php:82
+msgid "Pre Icon Box 10 - Image"
+msgstr ""
+
+#: includes/widgets/icon-box.php:83
+msgid "Pre Icon Box 11"
+msgstr ""
+
+#: includes/widgets/icon-box.php:74
+msgid "Pre Icon Box 2"
+msgstr ""
+
+#: includes/widgets/icon-box.php:75
+msgid "Pre Icon Box 3"
+msgstr ""
+
+#: includes/widgets/icon-box.php:76
+msgid "Pre Icon Box 4"
+msgstr ""
+
+#: includes/widgets/icon-box.php:77
+msgid "Pre Icon Box 5"
+msgstr ""
+
+#: includes/widgets/icon-box.php:78
+msgid "Pre Icon Box 6"
+msgstr ""
+
+#: includes/widgets/icon-box.php:79
+msgid "Pre Icon Box 7"
+msgstr ""
+
+#: includes/widgets/icon-box.php:80
+msgid "Pre Icon Box 8"
+msgstr ""
+
+#: includes/widgets/icon-box.php:81
+msgid "Pre Icon Box 9"
+msgstr ""
+
+#: includes/widgets/icon-box.php:84
+msgid "Pre Icon Box Landing"
+msgstr ""
+
+#: includes/widgets/icon-list.php:68
+msgid "Pre Icon List"
+msgstr ""
+
+#: includes/widgets/icon-list.php:73
+msgid "Pre Icon List 1 (Image)"
+msgstr ""
+
+#: includes/widgets/image-blob.php:78
+msgid "Pre Image Blob"
+msgstr ""
+
+#: includes/widgets/images-gallery.php:100
+msgid "Pre Images Gallery"
+msgstr ""
+
+#: includes/widgets/banner.php:92
+msgid "Pre Landing 1- Home"
+msgstr ""
+
+#: includes/widgets/banner.php:93
+msgid "Pre Landing 2"
+msgstr ""
+
+#: includes/widgets/banner.php:94
+msgid "Pre Landing 3"
+msgstr ""
+
+#: includes/widgets/logo-showcase.php:92
+msgid "Pre Logo Showcase"
+msgstr ""
+
+#: includes/widgets/heading.php:83
+msgid "Pre Notice 1"
+msgstr ""
+
+#: includes/widgets/particles.php:79
+msgid "Pre Particles"
+msgstr ""
+
+#: includes/widgets/particles.php:84
+msgid "Pre Particles 1"
+msgstr ""
+
+#: includes/widgets/post-featured.php:113 includes/widgets/menu-post.php:88
+msgid "Pre Post"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:69
+msgid "Pre Price Calculator"
+msgstr ""
+
+#: includes/widgets/price-table.php:69
+msgid "Pre Price Table"
+msgstr ""
+
+#: includes/widgets/price-table.php:74
+msgid "Pre Price Table 1"
+msgstr ""
+
+#: includes/widgets/woo-product-best-seller.php:90
+msgid "Pre Product Best Seller"
+msgstr ""
+
+#: includes/widgets/woo-product-top-rated.php:90
+msgid "Pre Product Top Rated"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:90
+msgid "Pre Product Top Sale"
+msgstr ""
+
+#: includes/widgets/search.php:96 includes/widgets/woo-search.php:96
+msgid "Pre Search Form"
+msgstr ""
+
+#: includes/widgets/heading.php:102
+msgid "Pre Single Heading 1 (16px - Primary Font- Bold)"
+msgstr ""
+
+#: includes/widgets/social.php:68
+msgid "Pre Social"
+msgstr ""
+
+#: includes/widgets/social.php:74
+msgid "Pre Social 1"
+msgstr ""
+
+#: includes/widgets/social.php:75
+msgid "Pre Social 2"
+msgstr ""
+
+#: includes/widgets/social.php:76
+msgid "Pre Social 3"
+msgstr ""
+
+#: includes/widgets/social.php:77
+msgid "Pre Social 4"
+msgstr ""
+
+#: includes/widgets/social.php:78
+msgid "Pre Social 5"
+msgstr ""
+
+#: includes/widgets/steps.php:92
+msgid "Pre Steps"
+msgstr ""
+
+#: includes/widgets/heading.php:96
+msgid "Pre Sub Heading 1 (18px - Background - Bold)"
+msgstr ""
+
+#: includes/widgets/heading.php:97
+msgid "Pre Sub Heading 2 (32px - Primary Font - Normal)"
+msgstr ""
+
+#: includes/widgets/heading.php:98
+msgid "Pre Sub Heading 3 (18px - Primary Font - Normal)"
+msgstr ""
+
+#: includes/widgets/heading.php:99
+msgid "Pre Sub Heading 4 (24px - Primary Font - Normal)"
+msgstr ""
+
+#: includes/widgets/heading.php:100
+msgid "Pre Sub Heading 5 (18px - Primary Font - Normal)"
+msgstr ""
+
+#: includes/widgets/heading.php:101
+msgid "Pre Sub Heading 6 (18px - Primary Font - Uppercase)"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:119 includes/widgets/tabs.php:118
+msgid "Pre Tab"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:124 includes/widgets/tabs.php:123
+msgid "Pre Tab 1 (Classic)"
+msgstr ""
+
+#: includes/widgets/tabs.php:124
+msgid "Pre Tab 2 (Shadow)"
+msgstr ""
+
+#: includes/widgets/team-member.php:90
+msgid "Pre Team Member"
+msgstr ""
+
+#: includes/widgets/testimonial.php:90
+msgid "Pre Testimonial"
+msgstr ""
+
+#: includes/widgets/text-animation.php:69
+msgid "Pre Text Animation"
+msgstr ""
+
+#: includes/widgets/text-animation.php:74
+msgid "Pre Text Animation 1 (64px)"
+msgstr ""
+
+#: includes/widgets/text-animation.php:75
+msgid "Pre Text Animation 2 (76px)"
+msgstr ""
+
+#: includes/widgets/text-animation.php:76
+msgid "Pre Text Animation 3 (72px)"
+msgstr ""
+
+#: includes/widgets/text-label.php:69
+msgid "Pre Text Label"
+msgstr ""
+
+#: includes/widgets/text-label.php:74
+msgid "Pre Text Label 1 (64px)"
+msgstr ""
+
+#: includes/widgets/text-list.php:68
+msgid "Pre Text List"
+msgstr ""
+
+#: includes/widgets/text-list.php:73
+msgid "Pre Text List 1"
+msgstr ""
+
+#: includes/widgets/text-list.php:74
+msgid "Pre Text List 2"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:86
+msgid "Pre Text Scroll"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:91
+msgid "Pre Text Scroll 1"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:92
+msgid "Pre Text Scroll 2"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:93
+msgid "Pre Text Scroll 3"
+msgstr ""
+
+#: includes/widgets/timeline.php:78
+msgid "Pre Timeline"
+msgstr ""
+
+#: includes/widgets/timeline.php:83
+msgid "Pre Timeline 1 (Slick)"
+msgstr ""
+
+#: includes/widgets/timeline.php:84
+msgid "Pre Timeline 2"
+msgstr ""
+
+#: includes/widgets/timeline.php:85
+msgid "Pre Timeline 3"
+msgstr ""
+
+#: includes/widgets/text-animation.php:83
+#: includes/widgets/text-animation.php:85
+msgid "Pre Title"
+msgstr ""
+
+#: includes/widgets/video.php:77
+msgid "Pre Video"
+msgstr ""
+
+#: includes/widgets/woo-wishlist.php:66
+msgid "Pre Wishlist"
+msgstr ""
+
+#: includes/widgets/woo-wishlist.php:71
+msgid "Pre Wishlist 1"
+msgstr ""
+
+#: includes/classes/class-haru-ajax-helper.php:40
+msgid "Prev"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:127
+#: includes/widgets/woo-product-top-rated.php:127
+#: includes/widgets/price-calculator.php:224
+#: includes/widgets/price-calculator.php:310
+#: includes/widgets/price-calculator.php:379
+msgid "Price"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:62
+msgid "Price Calculator"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-price-filter.php:31
+#: includes/wp-widgets/haru-woo-price-filter.php:36
+msgid "Price filter"
+msgstr ""
+
+#: includes/widgets/price-table.php:62
+msgid "Price Table"
+msgstr ""
+
+#: includes/widgets/woo-cart.php:80
+msgid "Price Total"
+msgstr ""
+
+#: includes/widgets/price-table.php:133
+msgid "Price Unit"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-sorting.php:54
+msgid "Price: high to low"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-sorting.php:53
+msgid "Price: low to high"
+msgstr ""
+
+#: includes/widgets/header-icon-box.php:190
+#: includes/widgets/price-table.php:273 includes/widgets/icon-box.php:248
+msgid "Primary Color"
+msgstr ""
+
+#: includes/widgets/video.php:387
+msgid "Privacy Mode"
+msgstr ""
+
+#: includes/widgets/search.php:111
+msgid "Product"
+msgstr ""
+
+#: includes/widgets/woo-product-best-seller.php:82
+msgid "Product Best Seller Settings"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:260
+msgid "Product Filter"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:290
+#: includes/widgets/woo-ajax-order.php:345
+msgid "Product Filter Align"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:274
+#: includes/widgets/woo-ajax-order.php:329
+msgid "Product Filter All"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:681
+msgid "Product Metabox"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:315
+msgid "Product Order Filter"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:247
+#: includes/widgets/woo-product-slider.php:226
+#: includes/widgets/woo-ajax-order.php:302
+msgid "Product Padding"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:234
+#: includes/widgets/woo-product-slider.php:213
+#: includes/widgets/woo-ajax-order.php:289
+msgid "Product Style"
+msgstr ""
+
+#: includes/widgets/woo-product-top-rated.php:82
+msgid "Product Top Rated Settings"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:82
+msgid "Product Top Sale Settings"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:58
+#: includes/widgets/woo-product-slider.php:59
+#: includes/widgets/woo-ajax-order.php:61
+msgid "Products"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:104
+#: includes/widgets/woo-product-best-seller.php:104
+#: includes/widgets/woo-product-top-rated.php:104
+msgid "Products Per Page"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:247
+#: includes/widgets/layla-slideshow.php:247
+msgid "Project"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:119
+#: includes/widgets/woo-product-top-rated.php:119
+msgid "Publish Date"
+msgstr ""
+
+#: includes/widgets/price-table.php:170
+#: includes/widgets/price-calculator.php:159
+#: includes/widgets/price-calculator.php:412
+msgid "Purchase Now"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:79
+msgid "Query type"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:69
+#: includes/widgets/woo-product-top-sale.php:124
+#: includes/widgets/particles.php:241
+#: includes/widgets/woo-product-top-rated.php:124
+#: includes/widgets/woo-ajax-order.php:99
+#: includes/widgets/woo-ajax-order.php:155
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:153
+msgid "Random Tab title"
+msgstr ""
+
+#: includes/widgets/testimonial.php:165
+msgid "Rating"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:119
+msgid "Re-Import"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:108
+msgid "Recent Tab title"
+msgstr ""
+
+#: includes/widgets/countdown.php:307
+msgid "Redirect"
+msgstr ""
+
+#: includes/widgets/countdown.php:336
+msgid "Redirect URL"
+msgstr ""
+
+#: includes/widgets/woo-account.php:139 includes/widgets/woo-account.php:140
+msgid "Register"
+msgstr ""
+
+#: includes/widgets/woo-account.php:192
+msgid "Register Page"
+msgstr ""
+
+#: includes/widgets/woo-account.php:137
+msgid "Register Text"
+msgstr ""
+
+#: includes/term-meta/include/term-meta-generator-class.php:276
+msgid "Remove image"
+msgstr ""
+
+#: includes/widgets/divider.php:213
+msgid "Reverse Shape"
+msgstr ""
+
+#: includes/term-meta/include/term-meta-generator-class.php:236
+msgid "Revolution Slider is not Installed or Activated."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:728 includes/widgets/logo.php:156
+#: includes/widgets/woo-ajax-category.php:302 includes/widgets/button.php:140
+#: includes/widgets/header-icon-box.php:228
+#: includes/widgets/header-contact.php:148 includes/widgets/price-table.php:311
+#: includes/widgets/search.php:244 includes/widgets/countdown.php:282
+#: includes/widgets/particles.php:289 includes/widgets/woo-wishlist.php:95
+#: includes/widgets/counter.php:218 includes/widgets/nav-menu-popup.php:242
+#: includes/widgets/close-row.php:122 includes/widgets/woo-account.php:101
+#: includes/widgets/logo-footer.php:157 includes/widgets/nav-menu.php:151
+#: includes/widgets/nav-menu.php:457 includes/widgets/episode-category.php:321
+#: includes/widgets/woo-cart.php:108 includes/widgets/heading.php:225
+#: includes/widgets/woo-ajax-order.php:357 includes/widgets/woo-search.php:263
+#: includes/widgets/header-button.php:152 includes/widgets/icon-box.php:302
+#: includes/widgets/footer-link.php:140 includes/widgets/text-animation.php:155
+#: includes/widgets/nav-menu-sidebar.php:123
+#: includes/widgets/nav-menu-sidebar.php:237
+#: includes/widgets/footer-text.php:158 includes/widgets/social.php:102
+#: includes/widgets/text-list.php:138
+msgid "Right"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:385
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:192
+msgid "Right to Left direction."
+msgstr ""
+
+#: includes/widgets/text-animation.php:94
+#: includes/widgets/text-animation.php:96
+msgid "Rotate Title"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:190
+msgid "RTL"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:97
+#: includes/widgets/woo-ajax-order.php:137
+msgid "Sale"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:135
+msgid "Sale Tab title"
+msgstr ""
+
+#: includes/widgets/post-featured.php:315
+#: includes/widgets/banner-creative.php:236
+#: includes/widgets/logo-showcase.php:207 includes/widgets/image-blob.php:156
+#: includes/widgets/banner.php:248 includes/widgets/images-gallery.php:337
+msgid "Scale"
+msgstr ""
+
+#: includes/widgets/banner.php:250
+msgid "Scale + Overlay"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:178
+msgid "Scroll Speed , 1 is lowest."
+msgstr ""
+
+#: includes/widgets/search.php:132 includes/widgets/search.php:171
+#: includes/widgets/search.php:328 includes/widgets/search.php:360
+#: includes/widgets/search.php:374 includes/widgets/search.php:390
+#: includes/widgets/search.php:390 includes/widgets/search.php:399
+#: includes/widgets/woo-search.php:114 includes/widgets/woo-search.php:153
+#: includes/widgets/woo-search.php:167 includes/widgets/woo-search.php:393
+#: includes/widgets/woo-search.php:425 includes/widgets/woo-search.php:431
+#: includes/widgets/woo-search.php:431 includes/widgets/woo-search.php:439
+#: includes/widgets/woo-search.php:447 includes/widgets/woo-search.php:447
+#: includes/widgets/woo-search.php:455 includes/widgets/woo-search.php:460
+#: includes/widgets/woo-search.php:460 includes/widgets/woo-search.php:469
+#: includes/widgets/woo-search.php:486 includes/widgets/woo-search.php:486
+msgid "Search"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:97
+#: includes/widgets/episode-category.php:115
+#: includes/widgets/post-featured.php:139
+#: includes/widgets/romeo-slideshow.php:112
+#: includes/widgets/romeo-slideshow.php:156
+#: includes/widgets/woo-product-slider.php:97
+#: includes/widgets/woo-ajax-order.php:173 includes/widgets/menu-post.php:111
+#: includes/widgets/layla-slideshow.php:112
+#: includes/widgets/layla-slideshow.php:156
+msgid "Search & Select"
+msgstr ""
+
+#: includes/posttypes/content.php:42
+msgid "Search Content"
+msgstr ""
+
+#: includes/posttypes/footer.php:42
+msgid "Search Footer"
+msgstr ""
+
+#: includes/widgets/search.php:89 includes/widgets/woo-search.php:89
+msgid "Search Form"
+msgstr ""
+
+#: includes/posttypes/header.php:41
+msgid "Search Header"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:51
+msgid "Search MegaMenu"
+msgstr ""
+
+#: includes/widgets/countdown.php:173 includes/widgets/countdown.php:252
+#: includes/widgets/countdown.php:254 includes/widgets/countdown.php:255
+#: includes/widgets/countdown.php:428
+msgid "Seconds"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:86
+msgid "Select a category or leave blank for all"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:400
+msgid ""
+"Select a sidebar to display if use layout have sidebar left. This option "
+"will override settings in Theme Options -> XXX -> Sidebar Left."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:414
+msgid ""
+"Select a sidebar to display if use layout have sidebar right. This option "
+"will override settings in Theme Options -> XXX -> Sidebar Right."
+msgstr ""
+
+#: core/redux-extensions/extensions/footer/footer/field_footer.php:100
+msgid "Select an Footer"
+msgstr ""
+
+#: core/redux-extensions/extensions/header/header/field_header.php:100
+msgid "Select an Header"
+msgstr ""
+
+#: core/redux-extensions/extensions/menu/menu/field_menu.php:93
+#: core/redux-extensions/extensions/product_attribute/product_attribute/field_product_attribute.php:94
+msgid "Select an item"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:506
+msgid "Select Footer"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:441
+msgid "Select Header"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:115
+#: includes/widgets/woo-product-top-rated.php:115
+msgid "Select how to sort retrieved products."
+msgstr ""
+
+#: includes/widgets/accordion.php:132 includes/widgets/accordion.php:137
+#: includes/widgets/icon-list.php:140 includes/widgets/icon-list.php:145
+#: includes/widgets/content-slideshow.php:190
+#: includes/widgets/content-slideshow.php:196 includes/widgets/steps.php:183
+#: includes/widgets/steps.php:191 includes/widgets/banner-creative.php:166
+#: includes/widgets/banner-creative.php:172
+#: includes/widgets/logo-showcase.php:151
+#: includes/widgets/logo-showcase.php:156 includes/widgets/banner-list.php:188
+#: includes/widgets/banner-list.php:195 includes/widgets/banner-list.php:296
+#: includes/widgets/banner-list.php:304 includes/widgets/images-gallery.php:173
+#: includes/widgets/images-gallery.php:179
+#: includes/widgets/images-gallery.php:265
+#: includes/widgets/images-gallery.php:272
+msgid "Select Image"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:353
+msgid "Select maintenance background image."
+msgstr ""
+
+#: includes/wp-widgets/haru-navigation-menu.php:187
+msgid "Select Menu:"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:405
+msgid "Select sidebar Left for Single Page"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:419
+msgid "Select sidebar Right for Single Page"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:136
+#: includes/widgets/woo-product-top-rated.php:136
+msgid "Select sorting order."
+msgstr ""
+
+#: includes/widgets/timeline.php:150 includes/widgets/timeline.php:250
+msgid "Select Video"
+msgstr ""
+
+#: includes/widgets/video.php:115
+msgid "Self Hosted"
+msgstr ""
+
+#: includes/widgets/counter.php:155
+msgid "Separator"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:163 includes/widgets/tabs.php:163
+msgid "Set as Default"
+msgstr ""
+
+#: includes/widgets/banner.php:225
+msgid "Set banner size depend on banner Pre style."
+msgstr ""
+
+#: includes/widgets/accordion.php:234
+msgid "Set default active index start from 0."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:501
+msgid ""
+"Set Footer for page. This option will override settings in Theme Options -> "
+"Footer."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:436
+msgid ""
+"Set Header for page. This option will override settings in Theme Options -> "
+"Header -> Header Builder Type."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:487
+msgid ""
+"Set Header Sticky Element. This option will override settings in Theme "
+"Options -> Header."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:461
+msgid ""
+"Set Header Transparent. This option will override settings in Theme Options -"
+"> Header."
+msgstr ""
+
+#: includes/widgets/banner-list.php:259 includes/widgets/images-gallery.php:242
+msgid "Set image size for Packery layout."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:117
+msgid "Set images for Post Gallery."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:350
+msgid ""
+"Set Layout Style for this page. This option will override settings in Theme "
+"Options -> General Settings -> Layout Style."
+msgstr ""
+
+#: includes/widgets/timeline.php:269 includes/widgets/timeline.php:275
+msgid "Set Link."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:364
+msgid ""
+"Set Page Layout for this page. This option will override settings in Theme "
+"Options -> XXX -> Layout."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:378
+msgid ""
+"Set Page Sidebar for this page. This option will override settings in Theme "
+"Options -> XXX -> Sidebar."
+msgstr ""
+
+#: includes/widgets/google-maps.php:77
+#, php-format
+msgid ""
+"Set your Google Maps API Key in Elementor's <a href=\"%1$s\" "
+"target=\"_blank\">Integrations Settings</a> page. Create your key <a "
+"href=\"%2$s\" target=\"_blank\">here."
+msgstr ""
+
+#: includes/widgets/button.php:285 includes/widgets/logo-showcase.php:208
+#: includes/widgets/header-button.php:122 includes/widgets/banner.php:261
+msgid "Shadow"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:270
+msgid "Shop By Categories"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:278 includes/widgets/timeline.php:342
+#: includes/widgets/woo-product-top-sale.php:211
+#: includes/widgets/countdown.php:142 includes/widgets/countdown.php:153
+#: includes/widgets/countdown.php:164 includes/widgets/countdown.php:175
+#: includes/widgets/countdown.php:186 includes/widgets/counter.php:147
+#: includes/widgets/woo-product-best-seller.php:175
+#: includes/widgets/content-slideshow.php:265
+#: includes/widgets/content-slideshow.php:279
+#: includes/widgets/team-member.php:386 includes/widgets/testimonial.php:371
+#: includes/widgets/episode-category.php:297
+#: includes/widgets/post-featured.php:347
+#: includes/widgets/woo-product-top-rated.php:211
+#: includes/widgets/video.php:333 includes/widgets/video.php:348
+#: includes/widgets/video.php:375 includes/widgets/video.php:453
+#: includes/widgets/video.php:467 includes/widgets/video.php:481
+#: includes/widgets/video.php:507 includes/widgets/video.php:565
+#: includes/widgets/woo-product-slider.php:269 includes/widgets/steps.php:308
+#: includes/widgets/woo-cart.php:82 includes/widgets/banner-creative.php:268
+#: includes/widgets/woo-ajax-order.php:333
+#: includes/widgets/woo-ajax-order.php:469
+#: includes/widgets/logo-showcase.php:290 includes/widgets/banner-list.php:429
+#: includes/widgets/images-gallery.php:369
+msgid "Show"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-price-filter.php:37
+msgid "Show empty price ranges"
+msgstr ""
+
+#: includes/widgets/countdown.php:184
+msgid "Show Label"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:107
+msgid "Show labels"
+msgstr ""
+
+#: includes/widgets/countdown.php:309
+msgid "Show Message"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:73
+msgid "Show on category"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:116
+msgid "Show tooltips"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:514
+msgid ""
+"Show/Hide Page Title. This option will override settings in Theme Options -> "
+"XXX -> Page Title."
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:409
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:399
+msgid "Sidebar Left"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:413
+msgid "Sidebar Right"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:765
+msgid "Single Product Layout"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:686
+msgid "Single Product Style"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:431
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/widgets/button.php:155 includes/widgets/button.php:169
+#: includes/widgets/countdown.php:383 includes/widgets/video.php:698
+#: includes/widgets/heading.php:173 includes/widgets/woo-search.php:337
+#: includes/widgets/header-button.php:167 includes/widgets/banner.php:224
+#: includes/widgets/social.php:225
+msgid "Size"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:757
+msgid "Size Guide"
+msgstr ""
+
+#: includes/widgets/testimonial.php:95
+#: includes/widgets/woo-product-slider.php:79
+#: includes/widgets/woo-ajax-order.php:82
+#: includes/widgets/images-gallery.php:105
+msgid "Slick"
+msgstr ""
+
+#: includes/widgets/content-slideshow.php:102
+msgid "Slick (Fade)"
+msgstr ""
+
+#: includes/widgets/testimonial.php:96
+msgid "Slick 2"
+msgstr ""
+
+#: includes/widgets/testimonial.php:97
+msgid "Slick 3"
+msgstr ""
+
+#: includes/widgets/testimonial.php:98
+msgid "Slick 4"
+msgstr ""
+
+#: includes/widgets/testimonial.php:99
+msgid "Slick 5"
+msgstr ""
+
+#: includes/widgets/testimonial.php:100
+msgid "Slick 6"
+msgstr ""
+
+#: includes/widgets/testimonial.php:101
+msgid "Slick 7"
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:95
+#: includes/widgets/woo-product-best-seller.php:95
+#: includes/widgets/woo-product-top-rated.php:95
+#: includes/widgets/logo-showcase.php:97
+msgid "Slick Carousel"
+msgstr ""
+
+#: includes/widgets/banner-list.php:106 includes/widgets/images-gallery.php:106
+msgid "Slick Center"
+msgstr ""
+
+#: includes/widgets/team-member.php:95 includes/widgets/post-featured.php:118
+#: includes/widgets/banner-list.php:107
+msgid "Slick Normal"
+msgstr ""
+
+#: includes/widgets/post-featured.php:120
+msgid "Slick Normal Nav Opacity"
+msgstr ""
+
+#: includes/widgets/banner-list.php:105
+msgid "Slick Overflow"
+msgstr ""
+
+#: includes/widgets/team-member.php:96 includes/widgets/post-featured.php:119
+msgid "Slick Overflow Right"
+msgstr ""
+
+#: includes/widgets/timeline.php:321
+#: includes/widgets/woo-product-top-sale.php:183
+#: includes/widgets/woo-product-best-seller.php:147
+#: includes/widgets/content-slideshow.php:244
+#: includes/widgets/team-member.php:365 includes/widgets/testimonial.php:350
+#: includes/widgets/post-featured.php:326
+#: includes/widgets/romeo-slideshow.php:368
+#: includes/widgets/woo-product-top-rated.php:183
+#: includes/widgets/woo-product-slider.php:241 includes/widgets/steps.php:280
+#: includes/widgets/banner-creative.php:247
+#: includes/widgets/woo-ajax-order.php:441
+#: includes/widgets/logo-showcase.php:262 includes/widgets/banner-list.php:408
+#: includes/widgets/images-gallery.php:348
+#: includes/widgets/layla-slideshow.php:368
+msgid "Slide Options"
+msgstr ""
+
+#: includes/widgets/timeline.php:370
+#: includes/widgets/woo-product-top-sale.php:255
+#: includes/widgets/woo-product-best-seller.php:219
+#: includes/widgets/content-slideshow.php:308
+#: includes/widgets/team-member.php:430 includes/widgets/testimonial.php:415
+#: includes/widgets/post-featured.php:375
+#: includes/widgets/woo-product-top-rated.php:255
+#: includes/widgets/woo-product-slider.php:313 includes/widgets/steps.php:352
+#: includes/widgets/banner-creative.php:297
+#: includes/widgets/woo-ajax-order.php:513
+#: includes/widgets/logo-showcase.php:334 includes/widgets/banner-list.php:458
+#: includes/widgets/images-gallery.php:398
+msgid "Slide To Scroll"
+msgstr ""
+
+#: includes/widgets/timeline.php:355
+#: includes/widgets/woo-product-top-sale.php:240
+#: includes/widgets/woo-product-best-seller.php:204
+#: includes/widgets/content-slideshow.php:293
+#: includes/widgets/team-member.php:415 includes/widgets/testimonial.php:400
+#: includes/widgets/post-featured.php:360
+#: includes/widgets/woo-product-top-rated.php:240
+#: includes/widgets/woo-product-slider.php:298 includes/widgets/steps.php:337
+#: includes/widgets/banner-creative.php:282
+#: includes/widgets/woo-ajax-order.php:498
+#: includes/widgets/logo-showcase.php:319 includes/widgets/banner-list.php:443
+#: includes/widgets/images-gallery.php:383
+msgid "Slide To Show"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:171
+#: includes/widgets/layla-slideshow.php:171
+msgid "Slides"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:101
+#: includes/widgets/button.php:56 includes/widgets/button.php:176
+#: includes/widgets/header-button.php:57 includes/widgets/social.php:230
+msgid "Small"
+msgstr ""
+
+#: includes/widgets/banner-list.php:263 includes/widgets/images-gallery.php:246
+msgid "Small Square (1x1)"
+msgstr ""
+
+#: includes/widgets/team-member.php:163
+msgid "Social Icon 1"
+msgstr ""
+
+#: includes/widgets/team-member.php:191
+msgid "Social Icon 2"
+msgstr ""
+
+#: includes/widgets/team-member.php:219
+msgid "Social Icon 3"
+msgstr ""
+
+#: includes/widgets/team-member.php:247
+msgid "Social Icon 4"
+msgstr ""
+
+#: includes/widgets/team-member.php:176
+msgid "Social Link 1"
+msgstr ""
+
+#: includes/widgets/team-member.php:204
+msgid "Social Link 2"
+msgstr ""
+
+#: includes/widgets/team-member.php:232
+msgid "Social Link 3"
+msgstr ""
+
+#: includes/widgets/team-member.php:260
+msgid "Social Link 4"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:344
+#: includes/widgets/layla-slideshow.php:344
+msgid "Social List"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:297
+#: includes/widgets/layla-slideshow.php:297
+msgid "Social Title"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:289
+#: includes/widgets/layla-slideshow.php:289
+msgid "Socials"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-sorting.php:29
+msgid "Sort by"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:75
+msgctxt "Sorting order"
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:87
+#: includes/widgets/episode-category.php:105
+#: includes/widgets/post-featured.php:129 includes/widgets/video.php:108
+#: includes/widgets/woo-product-slider.php:87
+#: includes/widgets/woo-ajax-order.php:162 includes/widgets/menu-post.php:101
+msgid "Source"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:96
+#: includes/widgets/layla-slideshow.php:96
+msgid "Source Type"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:676
+msgid "Space Between"
+msgstr ""
+
+#: includes/widgets/accordion.php:319
+msgid "Spacing"
+msgstr ""
+
+#: includes/widgets/video.php:245
+msgid "Specify a start time (in seconds)"
+msgstr ""
+
+#: includes/widgets/video.php:255
+msgid "Specify an end time (in seconds)"
+msgstr ""
+
+#: includes/widgets/particles.php:270
+msgid "Speed"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:107 includes/widgets/tabs.php:106
+msgid "Stacked"
+msgstr ""
+
+#: includes/widgets/particles.php:142
+msgid "Star"
+msgstr ""
+
+#: includes/widgets/accordion.php:303
+msgid "Start"
+msgstr ""
+
+#: includes/widgets/video.php:243
+msgid "Start Time"
+msgstr ""
+
+#: includes/widgets/counter.php:83
+msgid "Starting Number"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:746
+msgid "Sticky"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:739
+msgid "Sticky Product Images"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-stock-status.php:29
+msgid "Stock status"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:155 includes/posttypes/megamenu.php:145
+msgid "Stretch"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:393
+msgid "Stretch the dropdown of the menu to full width."
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:45
+#: includes/widgets/woo-search.php:329 includes/widgets/footer-link.php:193
+#: includes/widgets/banner-list.php:352 includes/widgets/banner.php:216
+#: includes/widgets/footer-text.php:126 includes/widgets/social.php:217
+#: includes/widgets/contact.php:212
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:238
+#: includes/widgets/woo-ajax-category.php:265 includes/widgets/accordion.php:74
+#: includes/widgets/countdown.php:90 includes/widgets/counter.php:72
+#: includes/widgets/episode-category.php:256
+#: includes/widgets/episode-category.php:284
+#: includes/widgets/post-featured.php:282
+#: includes/widgets/woo-product-slider.php:217
+#: includes/widgets/woo-ajax-order.php:293
+#: includes/widgets/woo-ajax-order.php:320 includes/widgets/image-blob.php:83
+#: includes/widgets/banner-list.php:377 includes/widgets/banner-list.php:394
+msgid "Style 1"
+msgstr ""
+
+#: includes/widgets/decor.php:72
+msgid "Style 1 (Circle Gradient - 2 Colors)"
+msgstr ""
+
+#: includes/widgets/divider.php:72
+msgid "Style 1 (Wave Double)"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:239
+#: includes/widgets/woo-ajax-category.php:266 includes/widgets/accordion.php:75
+#: includes/widgets/countdown.php:91 includes/widgets/counter.php:73
+#: includes/widgets/episode-category.php:257
+#: includes/widgets/episode-category.php:285
+#: includes/widgets/post-featured.php:283
+#: includes/widgets/woo-product-slider.php:218
+#: includes/widgets/woo-ajax-order.php:294
+#: includes/widgets/woo-ajax-order.php:321 includes/widgets/banner-list.php:378
+#: includes/widgets/banner-list.php:395
+msgid "Style 2"
+msgstr ""
+
+#: includes/widgets/decor.php:73
+msgid "Style 2 (Circle Gradient - 3 Colors)"
+msgstr ""
+
+#: includes/widgets/divider.php:73
+msgid "Style 2 (Trapezoid)"
+msgstr ""
+
+#: includes/widgets/accordion.php:76 includes/widgets/counter.php:74
+#: includes/widgets/episode-category.php:258
+#: includes/widgets/post-featured.php:284 includes/widgets/banner-list.php:379
+msgid "Style 3"
+msgstr ""
+
+#: includes/widgets/decor.php:74
+msgid "Style 3 (Ellipse Blur)"
+msgstr ""
+
+#: includes/widgets/countdown.php:92
+msgid "Style 3 (Top Bar)"
+msgstr ""
+
+#: includes/widgets/divider.php:74
+msgid "Style 3 (Triangle)"
+msgstr ""
+
+#: includes/widgets/accordion.php:77 includes/widgets/counter.php:75
+msgid "Style 4"
+msgstr ""
+
+#: includes/widgets/decor.php:75
+msgid "Style 4 (Dotted)"
+msgstr ""
+
+#: includes/widgets/divider.php:75
+msgid "Style 4 (Wave Single)"
+msgstr ""
+
+#: includes/widgets/decor.php:76
+msgid "Style 5 (Circle Layered)"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:131
+msgid "Sub Megamenu Management"
+msgstr ""
+
+#: includes/widgets/text-label.php:90 includes/widgets/icon-list.php:91
+#: includes/widgets/content-slideshow.php:120
+#: includes/widgets/content-slideshow.php:188
+#: includes/widgets/content-slideshow.php:194
+#: includes/widgets/team-member.php:116 includes/widgets/team-member.php:281
+#: includes/widgets/team-member.php:285 includes/widgets/testimonial.php:121
+#: includes/widgets/testimonial.php:198 includes/widgets/testimonial.php:203
+#: includes/widgets/steps.php:117 includes/widgets/heading.php:126
+#: includes/widgets/banner-creative.php:124
+#: includes/widgets/banner-creative.php:164
+#: includes/widgets/banner-creative.php:170 includes/widgets/icon-box.php:155
+#: includes/widgets/banner-list.php:127 includes/widgets/banner-list.php:186
+#: includes/widgets/banner-list.php:193 includes/widgets/banner-list.php:219
+#: includes/widgets/banner-list.php:294 includes/widgets/banner-list.php:302
+#: includes/widgets/text-animation.php:121
+#: includes/widgets/text-animation.php:123 includes/widgets/banner.php:129
+#: includes/widgets/banner.php:131 includes/widgets/images-gallery.php:126
+#: includes/widgets/images-gallery.php:171
+#: includes/widgets/images-gallery.php:177
+#: includes/widgets/images-gallery.php:202
+#: includes/widgets/images-gallery.php:263
+#: includes/widgets/images-gallery.php:270 includes/widgets/text-list.php:92
+msgid "Sub Title"
+msgstr ""
+
+#: includes/widgets/steps.php:181
+msgid "Sub Title #1"
+msgstr ""
+
+#: includes/widgets/steps.php:189
+msgid "Sub Title #2"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:599
+msgid "Sub Title Custom"
+msgstr ""
+
+#: includes/widgets/banner.php:312
+msgid "Sub Title Display"
+msgstr ""
+
+#: includes/widgets/icon-list.php:139 includes/widgets/icon-list.php:144
+#: includes/widgets/text-list.php:111 includes/widgets/text-list.php:115
+msgid "Sub Title."
+msgstr ""
+
+#: includes/widgets/nav-menu.php:209
+msgid "Submenu Indicator"
+msgstr ""
+
+#: includes/widgets/video.php:434
+msgid "Suggested Videos"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:291
+msgid "SVG Support"
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:97
+msgid "Swatches size"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:246 includes/widgets/tabs.php:246
+msgid "Tab Content"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:259 includes/widgets/tabs.php:259
+msgid "Tab List"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:264 includes/widgets/tabs.php:264
+msgid "Tab Title 1"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:274 includes/widgets/tabs.php:274
+msgid "Tab Title 2"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:272
+msgid "Tablet"
+msgstr ""
+
+#. %d: Breakpoint number.
+#: includes/widgets/nav-menu.php:378
+#, php-format
+msgid "Tablet (< %dpx)"
+msgstr ""
+
+#: includes/widgets/testimonial.php:294
+msgid "Tablet Settings"
+msgstr ""
+
+#: includes/widgets/team-member.php:275
+msgid "Team Member List"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:657
+msgid "Term Metabox"
+msgstr ""
+
+#: includes/widgets/testimonial.php:192
+msgid "Testimonial List"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:90 core/libraries/theme-metabox.php:143
+#: includes/widgets/button.php:96 includes/widgets/search.php:156
+#: includes/widgets/search.php:169 includes/widgets/woo-search.php:138
+#: includes/widgets/woo-search.php:151 includes/widgets/woo-search.php:165
+#: includes/widgets/header-button.php:94
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/text-animation.php:104
+msgid "Text Animation"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:517 includes/widgets/nav-menu.php:539
+#: includes/widgets/nav-menu.php:580 includes/widgets/nav-menu.php:723
+#: includes/widgets/nav-menu.php:757 includes/widgets/nav-menu.php:796
+#: includes/widgets/nav-menu.php:984 includes/widgets/nav-menu.php:1018
+#: includes/widgets/nav-menu.php:1057 includes/widgets/heading.php:283
+#: includes/widgets/footer-link.php:229 includes/widgets/footer-link.php:255
+#: includes/widgets/footer-link.php:281 includes/widgets/footer-text.php:175
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:126 includes/widgets/text-list.php:105
+msgid "Text List"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:177
+msgid "Text Scroll Speed"
+msgstr ""
+
+#: includes/widgets/video.php:725
+msgctxt "Text Shadow Control"
+msgid "Shadow"
+msgstr ""
+
+#: includes/term-meta/tax-meta-fields.php:33
+msgid "The text of label (should be same as name)"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:260
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:171 includes/widgets/nav-menu.php:114
+#: includes/widgets/nav-menu.php:359 includes/widgets/nav-menu-sidebar.php:166
+#: includes/widgets/nav-menu-template.php:130
+msgid "There are no menus in your site."
+msgstr ""
+
+#: includes/widgets/accordion.php:111
+msgid "This image use for Accordion Style 2 only."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:758
+msgid "This image use for display Product Size Guide"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:664
+msgid "This image use for Term Page Title background like Category, Tag..."
+msgstr ""
+
+#: includes/widgets/text-label.php:92
+msgid "This is Sub Title"
+msgstr ""
+
+#: includes/widgets/icon-box.php:157
+msgid "This is sub title"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:202
+msgid "This is the description."
+msgstr ""
+
+#: includes/widgets/header-icon-box.php:101 includes/widgets/icon-box.php:130
+msgid "This is the heading"
+msgstr ""
+
+#: includes/widgets/price-table.php:124
+#: includes/widgets/price-calculator.php:85
+#: includes/widgets/price-calculator.php:187
+#: includes/widgets/price-calculator.php:273
+msgid "This is the title"
+msgstr ""
+
+#: includes/widgets/text-label.php:83
+msgid "This is Title"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:293
+msgid ""
+"This option should turn On before import Demo Data. Please note if you turn "
+"off this, your site still can support SVG from other plugins like Elementor,."
+".."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:601
+msgid "This option will override auto generate Sub Title."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:589
+msgid "This option will override auto generate Title."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:630
+msgid ""
+"This option will override settings in Theme Options -> XXX -> Breadcrumbs."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:612
+msgid "This option will override settings in Theme Options -> XXX -> Heading."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:565
+msgid ""
+"This option will override settings in Theme Options -> XXX -> Page Title "
+"Background."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:546
+msgid ""
+"This option will override settings in Theme Options -> XXX -> Page Title "
+"Content Layout."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:527
+msgid ""
+"This option will override settings in Theme Options -> XXX -> Page Title "
+"Layout."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:702
+msgid ""
+"This option will override Single Product layout in Theme Options -> "
+"WooCommerce -> Single Product -> Single Product Gallery Thumbnail Columns"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:722
+msgid ""
+"This option will override Single Product layout in Theme Options -> "
+"WooCommerce -> Single Product -> Single Product Gallery Thumbnail Position"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:766
+msgid ""
+"This option will override Single Product layout in Theme Options -> "
+"WooCommerce -> Single Product -> Single Product Layout"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:687
+msgid ""
+"This option will override Single Product layout in Theme Options -> "
+"WooCommerce -> Single Product -> Single Product Style"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:740
+msgid ""
+"This option will override Single Product layout in Theme Options -> "
+"WooCommerce -> Single Product -> Sticky Product Images"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:255
+msgid "This option will set your Header with Sidebar layout."
+msgstr ""
+
+#: includes/widgets/counter.php:144
+msgid "Thousand Separator"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:49
+msgid "Thumbnail Full Width"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:47
+msgid "Thumbnail Left"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:48
+msgid "Thumbnail Right"
+msgstr ""
+
+#: includes/widgets/timeline.php:94 includes/widgets/timeline.php:199
+msgid "Time"
+msgstr ""
+
+#: includes/widgets/timeline.php:175 includes/widgets/timeline.php:266
+msgid "Time #1"
+msgstr ""
+
+#: includes/widgets/timeline.php:181 includes/widgets/timeline.php:272
+msgid "Time #2"
+msgstr ""
+
+#: includes/widgets/timeline.php:170 includes/widgets/timeline.php:261
+msgid "Timeline List"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:372
+msgid "Timezone"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:334 core/libraries/theme-metabox.php:513
+#: includes/wp-widgets/haru-post-list.php:40
+#: includes/wp-widgets/haru-post-list.php:65
+#: includes/wp-widgets/haru-woo-layered-nav.php:62
+#: includes/wp-widgets/haru-woo-sorting.php:30
+#: includes/wp-widgets/haru-woo-price-filter.php:32
+#: includes/wp-widgets/haru-woo-stock-status.php:30
+#: includes/widgets/text-scroll.php:102 includes/widgets/text-label.php:81
+#: includes/widgets/timeline.php:103 includes/widgets/timeline.php:208
+#: includes/widgets/menu-tabs.php:154 includes/widgets/tabs.php:154
+#: includes/widgets/header-contact.php:81 includes/widgets/price-table.php:122
+#: includes/widgets/price-table.php:180 includes/widgets/icon-list.php:82
+#: includes/widgets/counter.php:171 includes/widgets/content-slideshow.php:111
+#: includes/widgets/team-member.php:107 includes/widgets/testimonial.php:112
+#: includes/widgets/episode-category.php:82
+#: includes/widgets/romeo-slideshow.php:184
+#: includes/widgets/romeo-slideshow.php:308 includes/widgets/steps.php:108
+#: includes/widgets/heading.php:113 includes/widgets/banner-creative.php:115
+#: includes/widgets/logo-showcase.php:107 includes/widgets/footer-link.php:83
+#: includes/widgets/banner-list.php:118 includes/widgets/banner-list.php:210
+#: includes/widgets/banner.php:116 includes/widgets/price-calculator.php:83
+#: includes/widgets/price-calculator.php:98
+#: includes/widgets/price-calculator.php:215
+#: includes/widgets/price-calculator.php:301
+#: includes/widgets/price-calculator.php:359 includes/widgets/social.php:126
+#: includes/widgets/images-gallery.php:117
+#: includes/widgets/images-gallery.php:193 includes/widgets/contact.php:85
+#: includes/widgets/text-list.php:83 includes/widgets/layla-slideshow.php:184
+#: includes/widgets/layla-slideshow.php:308
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:131 includes/widgets/timeline.php:176
+#: includes/widgets/timeline.php:267 includes/widgets/header-contact.php:118
+#: includes/widgets/price-table.php:206 includes/widgets/icon-list.php:138
+#: includes/widgets/content-slideshow.php:187
+#: includes/widgets/team-member.php:280 includes/widgets/testimonial.php:197
+#: includes/widgets/romeo-slideshow.php:349 includes/widgets/steps.php:180
+#: includes/widgets/banner-creative.php:163
+#: includes/widgets/logo-showcase.php:150 includes/widgets/footer-link.php:112
+#: includes/widgets/banner-list.php:185 includes/widgets/banner-list.php:293
+#: includes/widgets/price-calculator.php:124
+#: includes/widgets/price-calculator.php:250
+#: includes/widgets/price-calculator.php:335
+#: includes/widgets/price-calculator.php:436 includes/widgets/social.php:167
+#: includes/widgets/images-gallery.php:170
+#: includes/widgets/images-gallery.php:262 includes/widgets/contact.php:121
+#: includes/widgets/text-list.php:110 includes/widgets/layla-slideshow.php:349
+msgid "Title #1"
+msgstr ""
+
+#: includes/widgets/text-scroll.php:135 includes/widgets/timeline.php:182
+#: includes/widgets/timeline.php:273 includes/widgets/header-contact.php:123
+#: includes/widgets/price-table.php:210 includes/widgets/icon-list.php:143
+#: includes/widgets/content-slideshow.php:193
+#: includes/widgets/team-member.php:284 includes/widgets/testimonial.php:202
+#: includes/widgets/romeo-slideshow.php:354 includes/widgets/steps.php:188
+#: includes/widgets/banner-creative.php:169
+#: includes/widgets/logo-showcase.php:155 includes/widgets/footer-link.php:116
+#: includes/widgets/banner-list.php:192 includes/widgets/banner-list.php:301
+#: includes/widgets/price-calculator.php:128
+#: includes/widgets/price-calculator.php:255
+#: includes/widgets/price-calculator.php:340
+#: includes/widgets/price-calculator.php:441 includes/widgets/social.php:172
+#: includes/widgets/images-gallery.php:176
+#: includes/widgets/images-gallery.php:269 includes/widgets/contact.php:126
+#: includes/widgets/text-list.php:114 includes/widgets/layla-slideshow.php:354
+msgid "Title #2"
+msgstr ""
+
+#: includes/widgets/accordion.php:87 includes/widgets/header-icon-box.php:96
+#: includes/widgets/icon-box.php:125
+msgid "Title & Description"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:663
+msgid "Title Background"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:564
+msgid "Title Background Image"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:629
+msgid "Title Breadcrumbs"
+msgstr ""
+
+#: includes/widgets/social.php:260 includes/widgets/contact.php:247
+msgid "Title Color"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:545
+msgid "Title Content Layout"
+msgstr ""
+
+#: includes/widgets/banner.php:288
+msgid "Title Display"
+msgstr ""
+
+#: includes/widgets/social.php:306 includes/widgets/contact.php:310
+msgid "Title Font Size"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:611
+msgid "Title Heading"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:587
+msgid "Title Heading Custom"
+msgstr ""
+
+#: includes/widgets/accordion.php:214
+msgid "Title HTML Tag"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:526
+msgid "Title Layout"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:427
+#: includes/widgets/layla-slideshow.php:427
+msgid "Title Text Color"
+msgstr ""
+
+#: includes/wp-widgets/haru-navigation-menu.php:183
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/divider.php:146 includes/widgets/divider.php:173
+#: includes/widgets/divider.php:200
+#, php-format
+msgid "To achieve full height Divider use %s."
+msgstr ""
+
+#: includes/widgets/search.php:219 includes/widgets/woo-search.php:238
+#: includes/widgets/nav-menu-template.php:103
+msgid "Toggle"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:226 includes/widgets/nav-menu.php:442
+#: includes/widgets/nav-menu-sidebar.php:221
+msgid "Toggle Align"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:197 includes/widgets/nav-menu.php:423
+#: includes/widgets/nav-menu-sidebar.php:192
+msgid "Toggle Button"
+msgstr ""
+
+#: includes/widgets/nav-menu-popup.php:212
+#: includes/widgets/nav-menu-sidebar.php:207
+msgid "Toggle Icon"
+msgstr ""
+
+#: includes/widgets/particles.php:287 includes/widgets/video.php:813
+msgid "Top"
+msgstr ""
+
+#: includes/widgets/heading.php:72
+msgid "Top Bar 1"
+msgstr ""
+
+#: includes/widgets/heading.php:73
+msgid "Top Bar 2"
+msgstr ""
+
+#: includes/widgets/heading.php:74
+msgid "Top Bar 3"
+msgstr ""
+
+#: includes/widgets/particles.php:294
+msgid "Top Left"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:98
+#: includes/widgets/woo-ajax-order.php:146
+msgid "Top Rated"
+msgstr ""
+
+#: includes/widgets/woo-ajax-order.php:144
+msgid "Top Rated Tab title"
+msgstr ""
+
+#: includes/widgets/particles.php:288
+msgid "Top Right"
+msgstr ""
+
+#: includes/widgets/google-maps.php:248
+msgid "Transition Duration"
+msgstr ""
+
+#: includes/widgets/particles.php:140
+msgid "Triangle"
+msgstr ""
+
+#: includes/helper/theme-functions.php:57
+msgid "Twitter"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:386
+msgid "Two Sidebar"
+msgstr ""
+
+#: includes/widgets/search.php:151 includes/widgets/countdown.php:100
+#: includes/widgets/particles.php:134 includes/widgets/woo-search.php:133
+msgid "Type"
+msgstr ""
+
+#: includes/widgets/video.php:764
+msgid "UI Color"
+msgstr ""
+
+#: includes/widgets/video.php:776
+msgid "UI Hover Color"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:174
+msgid "Underline"
+msgstr ""
+
+#: includes/widgets/price-calculator.php:388
+msgid "Unit"
+msgstr ""
+
+#: includes/term-meta/include/term-meta-generator-class.php:274
+msgid "Upload / Add image"
+msgstr ""
+
+#: includes/widgets/video.php:218
+msgid "URL"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:83 core/libraries/theme-metabox.php:158
+msgid "Url"
+msgstr ""
+
+#: includes/widgets/team-member.php:142
+msgid "Use for Image & Title."
+msgstr ""
+
+#: includes/widgets/steps.php:138
+msgid "Use for Pre Steps with style List, List 2."
+msgstr ""
+
+#: includes/widgets/steps.php:127
+msgid "Use for Pre Steps with style List."
+msgstr ""
+
+#: includes/widgets/testimonial.php:131
+msgid "Use for Pre Testimonial 7."
+msgstr ""
+
+#: includes/widgets/testimonial.php:166
+msgid "Use for Pre Testimonial Slick 2 or 6, 7."
+msgstr ""
+
+#: includes/widgets/testimonial.php:151
+msgid "Use for Pre Testimonial Slick 2 or Slick 5, 7."
+msgstr ""
+
+#: includes/widgets/header-contact.php:92
+msgid "Use for Style 2."
+msgstr ""
+
+#: includes/widgets/icon-list.php:105
+msgid "Use for style use Image."
+msgstr ""
+
+#: includes/widgets/particles.php:101 includes/widgets/particles.php:229
+msgid "Value"
+msgstr ""
+
+#: includes/widgets/menu-tabs.php:84 includes/widgets/tabs.php:83
+#: includes/widgets/nav-menu.php:129
+msgid "Vertical"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:694
+msgid "Vertical Gallery"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:268
+msgid "Vertical Header"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:256
+msgid "Vertical Menu"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:659 includes/widgets/nav-menu.php:883
+#: includes/widgets/nav-menu.php:1144
+msgid "Vertical Padding"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:693
+msgid "Vertical Slide"
+msgstr ""
+
+#: includes/widgets/video.php:69 includes/widgets/video.php:634
+msgid "Video"
+msgstr ""
+
+#: includes/widgets/video.php:345
+msgid "Video Info"
+msgstr ""
+
+#: includes/widgets/video.php:266
+msgid "Video Options"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:29
+msgid "Video Source"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:100
+#: includes/widgets/romeo-slideshow.php:209
+#: includes/widgets/layla-slideshow.php:100
+#: includes/widgets/layla-slideshow.php:209
+msgid "Videos"
+msgstr ""
+
+#: includes/widgets/accordion.php:147 includes/widgets/button.php:230
+#: includes/widgets/countdown.php:126 includes/widgets/counter.php:238
+#: includes/widgets/video.php:531 includes/widgets/heading.php:253
+#: includes/widgets/header-button.php:223 includes/widgets/google-maps.php:163
+msgid "View"
+msgstr ""
+
+#: includes/widgets/romeo-slideshow.php:257
+#: includes/widgets/layla-slideshow.php:257
+msgid "View All Button"
+msgstr ""
+
+#: includes/classes/product-ajax-actions.php:424
+msgid "View All Results"
+msgstr ""
+
+#: includes/posttypes/content.php:41
+msgid "View Content"
+msgstr ""
+
+#: includes/posttypes/footer.php:41
+msgid "View Footer"
+msgstr ""
+
+#: includes/posttypes/header.php:40
+msgid "View Header"
+msgstr ""
+
+#: includes/widgets/contact.php:168
+msgid "View Map"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:50
+msgid "View MegaMenu"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:323 includes/widgets/nav-menu.php:297
+#: includes/widgets/episode-category.php:342
+#: includes/widgets/woo-ajax-order.php:422
+msgid "View More"
+msgstr ""
+
+#: templates/woo-ajax-order/woo-ajax-order.php:185
+#: templates/woo-ajax-category/woo-ajax-category.php:95
+#: includes/classes/product-ajax-actions.php:59
+#: includes/classes/product-ajax-actions.php:118
+#: includes/classes/product-ajax-actions.php:252
+#: includes/classes/product-ajax-actions.php:371 includes/widgets/steps.php:167
+#: includes/widgets/steps.php:185 includes/widgets/steps.php:193
+msgid "View more"
+msgstr ""
+
+#: includes/widgets/nav-menu.php:295
+msgid "View More Text"
+msgstr ""
+
+#: includes/widgets/video.php:95 includes/widgets/video.php:96
+msgid "View video"
+msgstr ""
+
+#: includes/widgets/video.php:113
+msgid "Vimeo"
+msgstr ""
+
+#: includes/widgets/banner.php:277
+msgid "Visibility"
+msgstr ""
+
+#: includes/widgets/divider.php:84
+msgid "Wave Color 1"
+msgstr ""
+
+#: includes/widgets/divider.php:96
+msgid "Wave Color 2"
+msgstr ""
+
+#: includes/widgets/countdown.php:424
+msgid "Weeks"
+msgstr ""
+
+#: includes/widgets/video.php:389
+msgid ""
+"When you turn on privacy mode, YouTube won't store information about "
+"visitors on your website unless they play the video."
+msgstr ""
+
+#: core/libraries/theme-metabox.php:356
+msgid "Wide"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:454
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/wp-widgets/haru-post-list.php:22
+msgid "Widget display posts."
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-layered-nav.php:28
+msgid "Widget display WooCommerce Layered Nav filter."
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-stock-status.php:22
+msgid "Widget filter in-stock and on-sale products."
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-price-filter.php:24
+msgid "Widget filter products by price range list."
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:335
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/wp-widgets/haru-woo-sorting.php:22
+msgid "Widget sort products by name, popularity, rating, etc."
+msgstr ""
+
+#: includes/widgets/episode-category.php:85
+msgid "Widget Title"
+msgstr ""
+
+#: includes/posttypes/megamenu.php:136
+msgid "Width (Number of Pixels)"
+msgstr ""
+
+#: includes/widgets/woo-wishlist.php:58
+msgid "Wishlist Settings"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:285
+msgid ""
+"Works best to import on a new install of WordPress. Please make sure PHP "
+"Settings of your Server as suggestion in our document."
+msgstr ""
+
+#: includes/classes/class-haru-ajax-helper.php:58
+msgid "Xem thêm"
+msgstr ""
+
+#: core/libraries/theme-metabox.php:259 includes/widgets/menu-tabs.php:134
+#: includes/widgets/tabs.php:134
+msgid "Yes"
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:381
+msgid ""
+"You can change # to your URL and fa fa-facebook to other social class. "
+"Please read more in the document."
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:373
+msgid ""
+"You can change timezone from here. More details: http://php."
+"net/manual/en/timezones.php"
+msgstr ""
+
+#: includes/widgets/woo-ajax-category.php:148
+#: includes/widgets/woo-product-top-sale.php:105
+#: includes/widgets/woo-product-best-seller.php:105
+#: includes/widgets/episode-category.php:166
+#: includes/widgets/woo-product-top-rated.php:105
+#: includes/widgets/woo-product-slider.php:148
+#: includes/widgets/woo-ajax-order.php:224
+msgid "You can set -1 to show all."
+msgstr ""
+
+#: includes/widgets/icon-list.php:207 includes/widgets/banner-list.php:522
+msgid "You can set Grid Options if you set Pre Banner List is Grid layout."
+msgstr ""
+
+#: includes/widgets/images-gallery.php:462
+msgid "You can set Grid Options if you set Pre Images Gallery is Grid layout."
+msgstr ""
+
+#: includes/widgets/logo-showcase.php:237
+msgid "You can set Grid Options if you set Pre Logo Showcase is Grid layout."
+msgstr ""
+
+#: includes/widgets/post-featured.php:432
+msgid "You can set Grid Options if you set Pre Post is Grid layout."
+msgstr ""
+
+#: includes/widgets/steps.php:255
+msgid "You can set Grid Options if you set Pre Steps is Grid layout."
+msgstr ""
+
+#: includes/widgets/team-member.php:340
+msgid ""
+"You can set Grid Options if you set Pre Team Member is Grid or None layout."
+msgstr ""
+
+#: includes/widgets/testimonial.php:259
+msgid ""
+"You can set Grid Options if you set Pre Testimonial is Grid or None layout."
+msgstr ""
+
+#: includes/widgets/banner-creative.php:259
+msgid ""
+"You can set Slide Options if you set Pre Banner Creative is Slick layout."
+msgstr ""
+
+#: includes/widgets/banner-list.php:420
+msgid "You can set Slide Options if you set Pre Banner List is Slick layout."
+msgstr ""
+
+#: includes/widgets/content-slideshow.php:256
+msgid ""
+"You can set Slide Options if you set Pre Content Slideshow is Slick layout."
+msgstr ""
+
+#: includes/widgets/post-featured.php:338
+msgid "You can set Slide Options if you set Pre Featured Post is Slick layout."
+msgstr ""
+
+#: includes/widgets/images-gallery.php:360
+msgid ""
+"You can set Slide Options if you set Pre Images Gallery is Slick layout."
+msgstr ""
+
+#: includes/widgets/woo-product-top-sale.php:202
+#: includes/widgets/woo-product-best-seller.php:166
+#: includes/widgets/woo-product-top-rated.php:202
+#: includes/widgets/logo-showcase.php:281
+msgid "You can set Slide Options if you set Pre Logo Showcase is Slick layout."
+msgstr ""
+
+#: includes/widgets/woo-product-slider.php:260
+#: includes/widgets/woo-ajax-order.php:460
+msgid ""
+"You can set Slide Options if you set Pre Product Slider is Slick layout."
+msgstr ""
+
+#: includes/widgets/steps.php:299
+msgid "You can set Slide Options if you set Pre Steps is Slick layout."
+msgstr ""
+
+#: includes/widgets/team-member.php:377
+msgid "You can set Slide Options if you set Pre Team Member is Slick layout."
+msgstr ""
+
+#: includes/widgets/testimonial.php:362
+msgid "You can set Slide Options if you set Pre Testimonial is Slick layout."
+msgstr ""
+
+#: includes/widgets/timeline.php:333
+msgid "You can set Slide Options if you set Pre Timeline is Slick layout."
+msgstr ""
+
+#: includes/widgets/contact.php:221
+msgid "You can set style if you set Pre Contact is None."
+msgstr ""
+
+#: includes/widgets/footer-link.php:205
+msgid "You can set style if you set Pre Footer Link is None."
+msgstr ""
+
+#: includes/widgets/footer-text.php:138
+msgid "You can set style if you set Pre Footer Text is None."
+msgstr ""
+
+#: core/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:364
+msgid "Your page will automatic end maintenance mode after this time."
+msgstr ""
+
+#: includes/widgets/video.php:112
+msgid "YouTube"
+msgstr ""
+
+#: includes/helper/theme-functions.php:69
+msgid "Youtube"
+msgstr ""
+
+#: includes/widgets/google-maps.php:123
+msgid "Zoom"
+msgstr ""

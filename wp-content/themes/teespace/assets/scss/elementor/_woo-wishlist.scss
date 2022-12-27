@@ -1,0 +1,82 @@
+$root: '.haru-wishlist';
+$header: '.haru-header';
+
+#{$root} {
+  display: flex;
+
+  &--style-1 {
+    .my-wishlist-wrap {
+      position: relative;
+
+      .haru-wishlist {
+        color: $cl-black;
+
+        &:before {
+          content: '\e901';
+          font-size: 20px;
+          font-family: 'phosphor';
+          font-weight: $fw-normal;
+        }
+
+        span.total {
+          background-color: $cl-primary;
+          border-radius: 50%;
+          color: $cl-white;
+          position: absolute;
+          top: -2px;
+          right: -10px;
+          width: 18px;
+          height: 18px;
+          line-height: 18px;
+          font-size: 12px;
+          text-align: center;
+        }
+      }
+    }
+  }
+
+  &--flex-start {
+    &#{$root} {
+      
+    }
+  }
+
+  &--center {
+    &#{$root} {
+      
+    }
+  }
+
+  &--flex-end {
+    &#{$root} {
+     
+    }
+  }
+}
+
+#{$dark-mode},
+#{$background-dark} {
+  #{$root} {
+    
+  }
+}
+
+#{$header} {
+  &--transparent {
+    &-light:not(.haru-header--sticky-on) {
+      &#{$header} {
+        #{$root} {
+          
+        }
+      }
+    }
+
+    &-dark:not(.haru-header--sticky-on) {
+      &#{$header} {
+        #{$root} {
+          
+        }
+      }
+    }
+  }
+}
