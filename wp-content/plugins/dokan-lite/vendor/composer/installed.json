@@ -7,18 +7,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Appsero/client.git",
-                "reference": "fba140030f7141ed71eeba192b5437b2f30d81a8"
+                "reference": "99e7ebd6701db4c7f0575863d6a6b6b1d4fce700"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Appsero/client/zipball/fba140030f7141ed71eeba192b5437b2f30d81a8",
-                "reference": "fba140030f7141ed71eeba192b5437b2f30d81a8",
+                "url": "https://api.github.com/repos/Appsero/client/zipball/99e7ebd6701db4c7f0575863d6a6b6b1d4fce700",
+                "reference": "99e7ebd6701db4c7f0575863d6a6b6b1d4fce700",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3"
             },
-            "time": "2022-12-20T10:46:35+00:00",
+            "time": "2023-01-06T09:38:22+00:00",
             "default-branch": true,
             "type": "library",
             "installation-source": "dist",
@@ -46,7 +46,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Appsero/client/issues",
-                "source": "https://github.com/Appsero/client/tree/v1.2.2"
+                "source": "https://github.com/Appsero/client/tree/develop"
             },
             "install-path": "../appsero/client"
         },

@@ -18,7 +18,7 @@
             'aliases' => array(
                 0 => '9999999-dev',
             ),
-            'reference' => 'fba140030f7141ed71eeba192b5437b2f30d81a8',
+            'reference' => '99e7ebd6701db4c7f0575863d6a6b6b1d4fce700',
             'dev_requirement' => false,
         ),
         'jakeasmith/http_build_url' => array(
